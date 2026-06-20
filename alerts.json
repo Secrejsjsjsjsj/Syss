@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T11:50:47.007809+00:00",
+  "last_updated": "2026-06-20T11:55:40.166947+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
@@ -63,8 +63,9 @@
     },
     "Нижегородская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-20T11:55:39.755287+00:00"
     },
     "Новгородская область": {
       "rocket": false,
