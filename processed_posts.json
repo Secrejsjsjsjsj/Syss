@@ -1,0 +1,23 @@
+PROCESSED_POSTS_FILE = "processed_posts.json"
+
+def load_processed_posts() -> set:
+    """Загружает множество уже обработанных ID постов."""
+    try:
+        with open(PROCESSED_POSTS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            # data может быть списком, преобразуем в set
+            if isinstance(data, list):
+                return set(data)
+            else:
+                return set()
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+def save_processed_posts(processed_set: set, max_size=500):
+    """Сохраняет последние max_size ID постов (для экономии места)."""
+    # Превращаем в список и обрезаем
+    posts_list = list(processed_set)
+    if len(posts_list) > max_size:
+        posts_list = posts_list[-max_size:]
+    with open(PROCESSED_POSTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(posts_list, f, ensure_ascii=False, indent=2)
