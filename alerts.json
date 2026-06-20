@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T12:55:52.718778+00:00",
+  "last_updated": "2026-06-20T13:01:00.082916+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
@@ -118,8 +118,9 @@
     },
     "Краснодарский край": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-20T13:00:59.641097+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
