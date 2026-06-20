@@ -5,26 +5,12 @@ import time
 import requests
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Tuple, Set
-from dotenv import load_dotenv
-
-load_dotenv()  # Загружаем переменные из .env
 
 # ---------- НАСТРОЙКИ ----------
 CHANNEL = "vrv_radar"
 BASE_URL = f"https://t.me/s/{CHANNEL}"
 POSTS_LIMIT = 200
 IGNORED_REGIONS = ["Астраханская область", "Архангельская область", "Омская область", "Курганская область", "Москва"]
-
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-if not BOT_TOKEN:
-    raise ValueError("BOT_TOKEN не задан в переменных окружения")
-CHAT_ID = os.getenv("CHAT_ID")
-if not CHAT_ID:
-    raise ValueError("CHAT_ID не задан")
-
-# Файлы для хранения состояния
-ALERTS_FILE = "alerts.json"
-PROCESSED_POSTS_FILE = "processed_posts.json"
 
 # Стоп-слова для фильтрации рекламы
 STOP_WORDS = [
@@ -100,11 +86,14 @@ REGION_ALIASES = {
     "ЯНАО": ["янао", "ямало-ненецкий", "новый уренгой", "ноябрьск"],
     "Адыгея": ["адыгея", "республика адыгея", "майкоп"]
 }
-# Удаляем игнорируемые регионы
 for ign in IGNORED_REGIONS:
     REGION_ALIASES.pop(ign, None)
 
-# ---------- ФУНКЦИИ РАБОТЫ С ФАЙЛАМИ ----------
+# Файлы для состояния
+ALERTS_FILE = "alerts.json"
+PROCESSED_POSTS_FILE = "processed_posts.json"
+
+# ---------- ФУНКЦИИ ДЛЯ РАБОТЫ С ФАЙЛАМИ ----------
 def load_previous_state() -> Dict[str, Dict]:
     try:
         with open(ALERTS_FILE, "r", encoding="utf-8") as f:
@@ -148,29 +137,6 @@ def save_processed_posts(processed_set: Set[int], max_size=500):
         posts_list = posts_list[-max_size:]
     with open(PROCESSED_POSTS_FILE, "w", encoding="utf-8") as f:
         json.dump(posts_list, f, ensure_ascii=False, indent=2)
-
-# ---------- ФУНКЦИИ ОТПРАВКИ В TELEGRAM ----------
-def send_telegram_message(text: str):
-    """Отправляет сообщение с повторными попытками при сбое."""
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": CHAT_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True
-    }
-    for attempt in range(3):
-        try:
-            resp = requests.post(url, json=payload, timeout=10)
-            if resp.status_code == 200:
-                return
-            else:
-                print(f"Ошибка отправки (попытка {attempt+1}): {resp.text}")
-                time.sleep(2)
-        except Exception as e:
-            print(f"Исключение при отправке (попытка {attempt+1}): {e}")
-            time.sleep(2)
-    print("Не удалось отправить сообщение после 3 попыток")
 
 # ---------- ФУНКЦИИ ПАРСИНГА ----------
 def fetch_page(url: str) -> str:
@@ -231,7 +197,7 @@ def classify_message(text: str):
     if re.search(r'отбой.*бпла.*всех.*регион|снята угроза бпла во всех регионах|отбой опасности по бпла во всех ранее объявленных регионах', text):
         return ('globalCancelDrone', None)
 
-    # Отбой – используем границы слова, чтобы не ловить "отбойник"
+    # Отбой
     cancel_pattern = r'(?<![а-я])отбой(?![а-я])|снят[ао]|завершен[ао]|отменен[ао]|нет\s*угрозы|угроза\s*снят[ао]'
     is_cancel = re.search(cancel_pattern, text)
     if is_cancel:
@@ -278,7 +244,37 @@ def apply_timeout(state: Dict[str, Dict]):
             except Exception as e:
                 print(f"Ошибка разбора времени для {region}: {e}")
 
+# ---------- ФУНКЦИЯ ОТПРАВКИ В TELEGRAM (используется только для уведомлений об изменениях) ----------
+def send_telegram_message(text: str, chat_id=None):
+    """Отправляет сообщение в Telegram."""
+    if chat_id is None:
+        chat_id = os.getenv("CHAT_ID")
+        if not chat_id:
+            print("CHAT_ID не задан, сообщение не отправлено")
+            return
+    url = f"https://api.telegram.org/bot{os.getenv('BOT_TOKEN')}/sendMessage"
+    payload = {
+        "chat_id": chat_id,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True
+    }
+    for attempt in range(3):
+        try:
+            resp = requests.post(url, json=payload, timeout=10)
+            if resp.status_code == 200:
+                return
+            else:
+                print(f"Ошибка отправки (попытка {attempt+1}): {resp.text}")
+                time.sleep(2)
+        except Exception as e:
+            print(f"Исключение при отправке (попытка {attempt+1}): {e}")
+            time.sleep(2)
+    print("Не удалось отправить сообщение после 3 попыток")
+
+# ---------- СРАВНЕНИЕ СОСТОЯНИЙ И ОТПРАВКА ИЗМЕНЕНИЙ ----------
 def send_status_updates(previous_state: Dict[str, Dict], new_state: Dict[str, Dict]):
+    """Отправляет уведомления только при изменениях статуса."""
     for region in REGION_ALIASES:
         old = previous_state.get(region, {"rocket": False, "droneAlert": False, "droneDanger": False})
         new = new_state.get(region, {"rocket": False, "droneAlert": False, "droneDanger": False})
@@ -304,6 +300,7 @@ def send_status_updates(previous_state: Dict[str, Dict], new_state: Dict[str, Di
                 msg = f"✅ Отбой угрозы БПЛА в <b>{region}</b>."
             send_telegram_message(msg)
 
+# ---------- ГЛАВНАЯ ФУНКЦИЯ compute_status ----------
 def compute_status() -> Dict[str, Dict]:
     previous_state = load_previous_state()
     processed_posts = load_processed_posts()
@@ -343,6 +340,7 @@ def compute_status() -> Dict[str, Dict]:
                 status[region]["droneDanger"] = False
                 if "droneAlert_time" in status[region]:
                     del status[region]["droneAlert_time"]
+            # Отправляем одно общее сообщение о глобальном отбое
             send_telegram_message("🌐 <b>Глобальный отбой угрозы БПЛА во всех регионах!</b>")
             new_processed.add(pid)
             continue
@@ -385,27 +383,14 @@ def compute_status() -> Dict[str, Dict]:
                             del status[reg]["droneAlert_time"]
             new_processed.add(pid)
         else:
-            # Не распознано – всё равно помечаем как обработанное
+            # Не распознано – помечаем как обработанное, но не меняем статус
             new_processed.add(pid)
 
     apply_timeout(status)
 
+    # Отправляем уведомления об изменениях (сравниваем с previous_state)
     send_status_updates(previous_state, status)
 
     save_processed_posts(new_processed)
 
     return status
-
-def main():
-    try:
-        print(f"Запуск парсера в {datetime.now().isoformat()}")
-        status = compute_status()
-        save_alerts(status)
-        print("Парсинг успешно завершён")
-    except Exception as e:
-        print(f"Критическая ошибка: {e}")
-        send_telegram_message(f"❌ Ошибка в боте: {e}")
-        raise
-
-if __name__ == "__main__":
-    main()
