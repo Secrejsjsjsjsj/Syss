@@ -4,7 +4,7 @@ import re
 import time
 import requests
 from datetime import datetime, timedelta, timezone
-from typing import Dict, List, Tuple, Set
+from typing import Dict, List, Tuple, Set, Optional
 
 # ---------- НАСТРОЙКИ ----------
 CHANNEL = "vrv_radar"
@@ -12,7 +12,6 @@ BASE_URL = f"https://t.me/s/{CHANNEL}"
 POSTS_LIMIT = 200
 IGNORED_REGIONS = ["Астраханская область", "Архангельская область", "Омская область", "Курганская область", "Москва"]
 
-# Стоп-слова для фильтрации рекламы
 STOP_WORDS = [
     "реклама", "подпишись", "подписаться", "каналы", "телеграм", "telegram",
     "бот", "сводки", "новости", "срочно", "важно", "обзор", "дайджест",
@@ -89,11 +88,9 @@ REGION_ALIASES = {
 for ign in IGNORED_REGIONS:
     REGION_ALIASES.pop(ign, None)
 
-# Файлы для состояния
 ALERTS_FILE = "alerts.json"
 PROCESSED_POSTS_FILE = "processed_posts.json"
 
-# ---------- ОБЕСПЕЧИВАЕМ НАЛИЧИЕ ФАЙЛОВ ----------
 def ensure_files_exist():
     if not os.path.exists(ALERTS_FILE):
         with open(ALERTS_FILE, 'w', encoding='utf-8') as f:
@@ -104,7 +101,6 @@ def ensure_files_exist():
             json.dump([], f)
         print(f"[{datetime.now().isoformat()}] Создан {PROCESSED_POSTS_FILE}")
 
-# ---------- ФУНКЦИИ ДЛЯ РАБОТЫ С ФАЙЛАМИ ----------
 def load_previous_state() -> Dict[str, Dict]:
     try:
         with open(ALERTS_FILE, "r", encoding="utf-8") as f:
@@ -149,7 +145,6 @@ def save_processed_posts(processed_set: Set[int], max_size=500):
     with open(PROCESSED_POSTS_FILE, "w", encoding="utf-8") as f:
         json.dump(posts_list, f, ensure_ascii=False, indent=2)
 
-# ---------- ФУНКЦИИ ПАРСИНГА ----------
 def fetch_page(url: str) -> str:
     for attempt in range(3):
         try:
@@ -208,12 +203,12 @@ def classify_message(text: str):
     if re.search(r'отбой.*бпла.*всех.*регион|снята угроза бпла во всех регионах|отбой опасности по бпла во всех ранее объявленных регионах', text):
         return ('globalCancelDrone', None)
 
-    # Отбой
-    cancel_pattern = r'(?<![а-я])отбой(?![а-я])|снят[ао]|завершен[ао]|отменен[ао]|нет\s*угрозы|угроза\s*снят[ао]'
+    # Отбой – расширенный набор паттернов
+    cancel_pattern = r'(?<![а-я])отбой(?![а-я])|снят[ао]|завершен[ао]|отменен[ао]|нет\s*угрозы|угроза\s*снят[ао]|отбой\s*опасности'
     is_cancel = re.search(cancel_pattern, text)
     if is_cancel:
         cancel_rocket = re.search(r'ракетн(?:ая|ую|ой|ая)\s*опасность\s*отменен|отбой\s*ракетн', text)
-        cancel_drone = re.search(r'отбой\s*бпла|снят[ао]\s*бпла|отбой\s*опасности\s*бпла', text)
+        cancel_drone = re.search(r'отбой\s*бпла|снят[ао]\s*бпла|отбой\s*опасности\s*бпла|опасность\s*бпла\s*снят[ао]|отбой\s*угрозы\s*бпла', text)
         if cancel_rocket:
             return ('cancel', 'rocket')
         if cancel_drone:
@@ -255,7 +250,6 @@ def apply_timeout(state: Dict[str, Dict]):
             except Exception as e:
                 print(f"Ошибка разбора времени для {region}: {e}")
 
-# ---------- ФУНКЦИЯ ОТПРАВКИ В TELEGRAM ----------
 def send_telegram_message(text: str, chat_id=None):
     if chat_id is None:
         chat_id = os.getenv("CHAT_ID")
@@ -286,42 +280,51 @@ def send_telegram_message(text: str, chat_id=None):
             time.sleep(2)
     print("Не удалось отправить сообщение после 3 попыток")
 
-# ---------- СРАВНЕНИЕ СОСТОЯНИЙ И ОТПРАВКА ИЗМЕНЕНИЙ ----------
-def send_status_updates(previous_state: Dict[str, Dict], new_state: Dict[str, Dict]):
-    """Отправляет уведомления только при изменениях статуса."""
-    for region in REGION_ALIASES:
-        old = previous_state.get(region, {"rocket": False, "droneAlert": False, "droneDanger": False})
-        new = new_state.get(region, {"rocket": False, "droneAlert": False, "droneDanger": False})
-
-        if old.get("rocket") != new.get("rocket"):
-            if new.get("rocket"):
+# ---------- НОВАЯ ЛОГИКА ОТПРАВКИ ИЗМЕНЕНИЙ В ХРОНОЛОГИЧЕСКОМ ПОРЯДКЕ ----------
+def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]], previous_state: Dict[str, Dict]):
+    """
+    pending_changes: ключ (region, change_type) -> (post_id, new_value)
+    change_type: 'rocket', 'droneAlert', 'droneDanger'
+    Отправляем все изменения, отсортированные по post_id.
+    При этом учитываем предыдущее состояние, чтобы не отправлять изменения,
+    которые уже были такими (но это учтено при добавлении).
+    """
+    if not pending_changes:
+        return
+    
+    # Сортируем по post_id
+    sorted_changes = sorted(pending_changes.items(), key=lambda item: item[1][0])
+    
+    for (region, change_type), (post_id, new_value) in sorted_changes:
+        if change_type == 'rocket':
+            if new_value:
                 msg = f"🚨 На территории <b>{region}</b> объявлена <b>ракетная опасность</b>! Просьба не паниковать."
             else:
                 msg = f"✅ Отбой ракетной опасности в <b>{region}</b>."
-            send_telegram_message(msg)
-
-        if old.get("droneAlert") != new.get("droneAlert"):
-            if new.get("droneAlert"):
+        elif change_type == 'droneAlert':
+            if new_value:
                 msg = f"🛸 В <b>{region}</b> зафиксирована работа ПВО / БПЛА (фиксация). Будьте внимательны."
             else:
                 msg = f"✅ Снята фиксация БПЛА в <b>{region}</b>."
-            send_telegram_message(msg)
-
-        if old.get("droneDanger") != new.get("droneDanger"):
-            if new.get("droneDanger"):
+        elif change_type == 'droneDanger':
+            if new_value:
                 msg = f"⚠️ В <b>{region}</b> объявлена <b>угроза БПЛА</b>! Примите меры предосторожности."
             else:
                 msg = f"✅ Отбой угрозы БПЛА в <b>{region}</b>."
-            send_telegram_message(msg)
+        else:
+            continue
+        
+        send_telegram_message(msg)
+        print(f"Отправлено: {msg} (post_id={post_id})")
 
 # ---------- ГЛАВНАЯ ФУНКЦИЯ compute_status ----------
 def compute_status() -> Dict[str, Dict]:
-    # Гарантируем, что файлы существуют
     ensure_files_exist()
-
+    
     previous_state = load_previous_state()
     processed_posts = load_processed_posts()
-
+    
+    # Инициализируем новый статус на основе предыдущего
     status = {}
     for region in REGION_ALIASES:
         if region in previous_state:
@@ -335,86 +338,137 @@ def compute_status() -> Dict[str, Dict]:
                 status[region]["droneAlert_time"] = st["droneAlert_time"]
         else:
             status[region] = {"rocket": False, "droneAlert": False, "droneDanger": False}
-
+    
+    # Словарь для отложенных изменений: (region, change_type) -> (post_id, new_value)
+    pending_changes = {}
+    
     posts = fetch_all_posts()
     print(f"Загружено постов: {len(posts)}")
-
+    
     new_processed = set(processed_posts)
-
+    
     for pid, text in posts:
         if pid in processed_posts:
             continue
-
+        
         if is_advertisement(text):
             print(f"[{pid}] Пропущено (реклама/информация): {text[:50]}...")
             new_processed.add(pid)
             continue
-
+        
         msg_type, subtype = classify_message(text)
         if msg_type == 'globalCancelDrone':
+            # Сбрасываем все БПЛА статусы для всех регионов
             for region in REGION_ALIASES:
                 status[region]["droneAlert"] = False
                 status[region]["droneDanger"] = False
                 if "droneAlert_time" in status[region]:
                     del status[region]["droneAlert_time"]
+                # Запоминаем изменения
+                if previous_state.get(region, {}).get("droneAlert", False) != False:
+                    pending_changes[(region, 'droneAlert')] = (pid, False)
+                if previous_state.get(region, {}).get("droneDanger", False) != False:
+                    pending_changes[(region, 'droneDanger')] = (pid, False)
+            # Отправляем общее сообщение о глобальном отбое
             send_telegram_message("🌐 <b>Глобальный отбой угрозы БПЛА во всех регионах!</b>")
             new_processed.add(pid)
             continue
-
+        
         regions = get_affected_regions(text)
         if not regions:
             new_processed.add(pid)
             continue
-
+        
         if msg_type == 'cancel':
             for reg in regions:
                 if subtype == 'rocket':
-                    status[reg]["rocket"] = False
+                    old_val = status[reg].get("rocket", False)
+                    if old_val != False:
+                        status[reg]["rocket"] = False
+                        pending_changes[(reg, 'rocket')] = (pid, False)
                 elif subtype == 'drone':
-                    status[reg]["droneAlert"] = False
-                    status[reg]["droneDanger"] = False
-                    if "droneAlert_time" in status[reg]:
-                        del status[reg]["droneAlert_time"]
-                elif subtype == 'all':
-                    status[reg]["rocket"] = False
-                    status[reg]["droneAlert"] = False
-                    status[reg]["droneDanger"] = False
-                    if "droneAlert_time" in status[reg]:
-                        del status[reg]["droneAlert_time"]
-            new_processed.add(pid)
-
-        elif msg_type == 'alert':
-            for reg in regions:
-                if subtype == 'rocket':
-                    status[reg]["rocket"] = True
-                elif subtype == 'droneAlert':
-                    status[reg]["droneAlert"] = True
-                    status[reg]["droneDanger"] = False
-                    status[reg]["droneAlert_time"] = datetime.now(timezone.utc).isoformat()
-                elif subtype == 'droneDanger':
-                    status[reg]["droneDanger"] = True
-                    if status[reg].get("droneAlert"):
+                    # Отбой только БПЛА (снимаем оба флага)
+                    old_alert = status[reg].get("droneAlert", False)
+                    old_danger = status[reg].get("droneDanger", False)
+                    if old_alert != False:
                         status[reg]["droneAlert"] = False
                         if "droneAlert_time" in status[reg]:
                             del status[reg]["droneAlert_time"]
+                        pending_changes[(reg, 'droneAlert')] = (pid, False)
+                    if old_danger != False:
+                        status[reg]["droneDanger"] = False
+                        pending_changes[(reg, 'droneDanger')] = (pid, False)
+                elif subtype == 'all':
+                    # Отбой всего
+                    old_rocket = status[reg].get("rocket", False)
+                    old_alert = status[reg].get("droneAlert", False)
+                    old_danger = status[reg].get("droneDanger", False)
+                    if old_rocket != False:
+                        status[reg]["rocket"] = False
+                        pending_changes[(reg, 'rocket')] = (pid, False)
+                    if old_alert != False:
+                        status[reg]["droneAlert"] = False
+                        if "droneAlert_time" in status[reg]:
+                            del status[reg]["droneAlert_time"]
+                        pending_changes[(reg, 'droneAlert')] = (pid, False)
+                    if old_danger != False:
+                        status[reg]["droneDanger"] = False
+                        pending_changes[(reg, 'droneDanger')] = (pid, False)
+            new_processed.add(pid)
+        
+        elif msg_type == 'alert':
+            for reg in regions:
+                if subtype == 'rocket':
+                    old_val = status[reg].get("rocket", False)
+                    if old_val != True:
+                        status[reg]["rocket"] = True
+                        pending_changes[(reg, 'rocket')] = (pid, True)
+                elif subtype == 'droneAlert':
+                    old_val = status[reg].get("droneAlert", False)
+                    if old_val != True:
+                        status[reg]["droneAlert"] = True
+                        status[reg]["droneDanger"] = False
+                        status[reg]["droneAlert_time"] = datetime.now(timezone.utc).isoformat()
+                        pending_changes[(reg, 'droneAlert')] = (pid, True)
+                        # Если был droneDanger, то снимаем его
+                        if status[reg].get("droneDanger", False):
+                            status[reg]["droneDanger"] = False
+                            pending_changes[(reg, 'droneDanger')] = (pid, False)
+                elif subtype == 'droneDanger':
+                    old_val = status[reg].get("droneDanger", False)
+                    if old_val != True:
+                        status[reg]["droneDanger"] = True
+                        pending_changes[(reg, 'droneDanger')] = (pid, True)
+                        # Если был droneAlert, снимаем его
+                        if status[reg].get("droneAlert", False):
+                            status[reg]["droneAlert"] = False
+                            if "droneAlert_time" in status[reg]:
+                                del status[reg]["droneAlert_time"]
+                            pending_changes[(reg, 'droneAlert')] = (pid, False)
             new_processed.add(pid)
         else:
-            # Не распознано – помечаем как обработанное, но не меняем статус
+            # Не распознано – помечаем как обработанное
             new_processed.add(pid)
-
+    
+    # Применяем тайм-аут (может изменить статус)
+    # Но тайм-аут не должен генерировать новые уведомления, так как он уже был обработан ранее?
+    # Лучше применять тайм-аут к конечному состоянию, но не отправлять уведомления от него,
+    # потому что они уже были отправлены в прошлом запуске.
+    # Однако мы можем применить и добавить изменения, если они не были учтены.
+    # Но проще не добавлять уведомления от тайм-аута, так как это автоматический переход.
+    # Мы просто применим его, но без отправки.
     apply_timeout(status)
-
-    # Отправляем уведомления об изменениях (сравниваем с previous_state)
-    send_status_updates(previous_state, status)
-
+    
+    # Теперь отправляем все накопленные изменения в хронологическом порядке
+    send_pending_changes(pending_changes, previous_state)
+    
+    # Сохраняем состояние и обработанные посты
+    save_alerts(status)
     save_processed_posts(new_processed)
-
+    
     return status
 
-# ---------- ТОЧКА ВХОДА ДЛЯ ЗАПУСКА ----------
 if __name__ == "__main__":
-    # Если запускается как скрипт, выполняем парсинг
     print("Запуск парсинга...")
     status = compute_status()
-    save_alerts(status)
     print("Парсинг завершён.")
