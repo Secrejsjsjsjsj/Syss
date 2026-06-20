@@ -10,7 +10,7 @@ from typing import Dict, List, Tuple, Set, Optional
 CHANNEL = "vrv_radar"
 BASE_URL = f"https://t.me/s/{CHANNEL}"
 POSTS_LIMIT = 200
-IGNORED_REGIONS = ["Астраханская область", "Архангельская область", "Омская область", "Курганская область", "Москва","Красноярский край"]
+IGNORED_REGIONS = ["Астраханская область", "Архангельская область", "Омская область", "Курганская область", "Москва"]
 
 STOP_WORDS = [
     "реклама", "подпишись", "подписаться", "каналы", "телеграм", "telegram",
@@ -66,7 +66,7 @@ REGION_ALIASES = {
     "Томская область": ["томская область", "томск"],
     "Кемеровская область": ["кемеровская область", "кемерово", "кузбасс"],
     "Иркутская область": ["иркутская область", "иркутск"],
-    "Красноярский край": ["краснодарский край", "краснодар", "кубань"],
+    "Красноярский край": ["красноярский край", "красноярск"],  # ИСПРАВЛЕНО – удалён "краснодарский край"
     "Алтайский край": ["алтайский край", "барнаул"],
     "Забайкальский край": ["забайкальский край", "чита"],
     "Приморский край": ["приморский край", "владивосток"],
@@ -92,12 +92,6 @@ ALERTS_FILE = "alerts.json"
 PROCESSED_POSTS_FILE = "processed_posts.json"
 
 # ---------- ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ ----------
-def get_moscow_time():
-    """Возвращает текущее время в Москве (UTC+3) в формате ЧЧ:ММ (МСК)"""
-    moscow_tz = timezone(timedelta(hours=3))
-    now = datetime.now(moscow_tz)
-    return now.strftime("%H:%M")
-
 def ensure_files_exist():
     if not os.path.exists(ALERTS_FILE):
         with open(ALERTS_FILE, 'w', encoding='utf-8') as f:
@@ -289,13 +283,12 @@ def send_telegram_message(text: str, chat_id=None):
             time.sleep(2)
     print("Не удалось отправить сообщение после 3 попыток")
 
-# ---------- ОТПРАВКА ИЗМЕНЕНИЙ В НОВОМ ФОРМАТЕ ----------
+# ---------- ОТПРАВКА ИЗМЕНЕНИЙ (без времени и разделителя) ----------
 def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]], previous_state: Dict[str, Dict]):
     """
     Отправляет изменения в компактном формате:
     Регион
     Тип события с цветным кружком
-    Время
     """
     if not pending_changes:
         return
@@ -304,9 +297,6 @@ def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]
     sorted_changes = sorted(pending_changes.items(), key=lambda item: item[1][0])
 
     for (region, change_type), (post_id, new_value) in sorted_changes:
-        time_str = get_moscow_time()
-
-        # Формируем строку для каждого типа
         if change_type == 'rocket':
             if new_value:
                 line2 = "🚀 Ракетная опасность 🔴"
@@ -319,15 +309,13 @@ def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]
                 line2 = "✅ Снята фиксация БПЛА 🟢"
         elif change_type == 'droneDanger':
             if new_value:
-                line2 = "⚠️ Опасность по БПЛА 🟡"   # как просили
+                line2 = "⚠️ Опасность по БПЛА 🟡"
             else:
                 line2 = "✅ Отбой угрозы БПЛА 🟢"
         else:
             continue
 
-        # Собираем сообщение
-        msg = f"{region}\n{line2}\n🕒 {time_str} МСК\n——————————————————"
-
+        msg = f"{region}\n{line2}"   # без времени и разделителя
         send_telegram_message(msg)
         print(f"Отправлено: {msg.replace(chr(10), ' ')} (post_id={post_id})")
 
