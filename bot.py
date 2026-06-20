@@ -289,10 +289,13 @@ def send_telegram_message(text: str, chat_id=None):
             time.sleep(2)
     print("Не удалось отправить сообщение после 3 попыток")
 
-# ---------- НОВЫЙ СТИЛЬ ОТПРАВКИ (без кнопки "Источник") ----------
+# ---------- ОТПРАВКА ИЗМЕНЕНИЙ В НОВОМ ФОРМАТЕ ----------
 def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]], previous_state: Dict[str, Dict]):
     """
-    Отправляет все изменения в красивом оформлении, с эмодзи и временем.
+    Отправляет изменения в компактном формате:
+    Регион
+    Тип события с цветным кружком
+    Время
     """
     if not pending_changes:
         return
@@ -303,55 +306,27 @@ def send_pending_changes(pending_changes: Dict[Tuple[str, str], Tuple[int, bool]
     for (region, change_type), (post_id, new_value) in sorted_changes:
         time_str = get_moscow_time()
 
+        # Формируем строку для каждого типа
         if change_type == 'rocket':
             if new_value:
-                msg = (
-                    f"🚨🚨🚨 <b>РАКЕТНАЯ ОПАСНОСТЬ</b> 🚨🚨🚨\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                    f"📢 Просьба не паниковать!\n"
-                )
+                line2 = "🚀 Ракетная опасность 🔴"
             else:
-                msg = (
-                    f"✅✅✅ <b>ОТБОЙ РАКЕТНОЙ ОПАСНОСТИ</b> ✅✅✅\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                    f"Ситуация стабилизирована.\n"
-                )
+                line2 = "✅ Отбой ракетной опасности 🟢"
         elif change_type == 'droneAlert':
             if new_value:
-                msg = (
-                    f"🛸🛸🛸 <b>ФИКСАЦИЯ БПЛА / РАБОТА ПВО</b> 🛸🛸🛸\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                    f"⚠️ Будьте внимательны!\n"
-                )
+                line2 = "🛸 Фиксация БПЛА 🟠"
             else:
-                msg = (
-                    f"✅✅✅ <b>СНЯТА ФИКСАЦИЯ БПЛА</b> ✅✅✅\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                )
+                line2 = "✅ Снята фиксация БПЛА 🟢"
         elif change_type == 'droneDanger':
             if new_value:
-                msg = (
-                    f"⚠️⚠️⚠️ <b>УГРОЗА БПЛА</b> ⚠️⚠️⚠️\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                    f"🔴 Примите меры предосторожности!\n"
-                )
+                line2 = "⚠️ Опасность по БПЛА 🟡"   # как просили
             else:
-                msg = (
-                    f"✅✅✅ <b>ОТБОЙ УГРОЗЫ БПЛА</b> ✅✅✅\n"
-                    f"📍 <b>Регион:</b> {region}\n"
-                    f"🕒 <b>Время:</b> {time_str} (МСК)\n"
-                    f"Угроза миновала.\n"
-                )
+                line2 = "✅ Отбой угрозы БПЛА 🟢"
         else:
             continue
 
-        # Добавляем разделитель (без ссылки)
-        msg += "\n——————————————————"
+        # Собираем сообщение
+        msg = f"{region}\n{line2}\n🕒 {time_str} МСК\n——————————————————"
 
         send_telegram_message(msg)
         print(f"Отправлено: {msg.replace(chr(10), ' ')} (post_id={post_id})")
