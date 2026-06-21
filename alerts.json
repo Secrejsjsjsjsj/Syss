@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T06:35:41.229215+00:00",
+  "last_updated": "2026-06-21T06:40:46.897234+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
@@ -159,7 +159,7 @@
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Удмуртская Республика": {
       "rocket": false,
