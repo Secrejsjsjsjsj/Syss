@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T12:50:45.756107+00:00",
+  "last_updated": "2026-06-21T12:55:41.836519+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
@@ -309,7 +309,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     }
   }
 }
