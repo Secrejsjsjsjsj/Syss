@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-22T14:45:56.058269+00:00",
+  "last_updated": "2026-06-22T14:50:50.274341+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-22T14:45:55.086228+00:00"
+      "droneAlert_time": "2026-06-22T14:50:48.964693+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
