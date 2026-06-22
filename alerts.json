@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T08:15:53.519721+00:00",
+  "last_updated": "2026-06-22T08:20:58.966780+00:00",
   "regions": {
     "Московская область": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-22T08:15:47.211333+00:00"
+      "droneAlert_time": "2026-06-22T08:20:50.139711+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -75,10 +75,9 @@
       "droneDanger": false
     },
     "Орловская область": {
-      "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-06-22T07:15:48.104180+00:00"
+      "rocket": true,
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -116,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-22T08:15:47.211092+00:00"
+      "droneAlert_time": "2026-06-22T08:20:50.139458+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -138,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-22T08:15:47.211282+00:00"
+      "droneAlert_time": "2026-06-22T08:20:50.139661+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
