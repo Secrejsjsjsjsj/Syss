@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T03:56:23.703893+00:00",
+  "last_updated": "2026-06-24T04:01:48.370352+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-24T03:55:39.826309+00:00"
+      "droneAlert_time": "2026-06-24T04:01:03.833792+00:00"
     },
     "Новгородская область": {
       "rocket": false,
