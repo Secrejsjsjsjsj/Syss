@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T09:36:34.158900+00:00",
+  "last_updated": "2026-06-24T09:41:35.004963+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -91,7 +91,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-24T09:35:45.938385+00:00"
+      "droneAlert_time": "2026-06-24T09:40:46.915765+00:00"
     },
     "Смоленская область": {
       "rocket": false,
