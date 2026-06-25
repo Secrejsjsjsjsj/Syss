@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:21:51.883121+00:00",
+  "last_updated": "2026-06-25T22:26:24.950007+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -151,7 +151,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T22:20:45.685016+00:00"
+      "droneAlert_time": "2026-06-25T22:25:41.873860+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -280,9 +280,8 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-06-25T21:20:46.304003+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Дагестан": {
       "rocket": false,
