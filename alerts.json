@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T04:34:00.916517+00:00",
+  "last_updated": "2026-06-25T04:38:45.644831+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -80,7 +80,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.625631+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.742534+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -142,7 +142,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.626674+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.743591+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -173,19 +173,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.625958+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.742856+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.625680+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.742583+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.626004+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.742903+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -201,7 +201,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.626053+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.742952+00:00"
     },
     "Пермский край": {
       "rocket": false,
@@ -282,7 +282,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:30:54.623429+00:00"
+      "droneAlert_time": "2026-06-25T04:35:39.740300+00:00"
     },
     "Дагестан": {
       "rocket": false,
