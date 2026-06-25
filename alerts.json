@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T08:51:41.008159+00:00",
+  "last_updated": "2026-06-25T08:56:21.087545+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -145,7 +145,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T08:50:49.146360+00:00"
+      "droneAlert_time": "2026-06-25T08:55:39.966287+00:00"
     },
     "Марий Эл": {
       "rocket": false,
