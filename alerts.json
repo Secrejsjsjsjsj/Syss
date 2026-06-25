@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T04:28:47.736958+00:00",
+  "last_updated": "2026-06-25T04:34:00.916517+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -80,7 +80,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.607233+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.625631+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -140,8 +140,9 @@
     },
     "Татарстан": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-25T04:30:54.626674+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -172,19 +173,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.607559+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.625958+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.607284+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.625680+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.607605+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.626004+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -200,7 +201,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.607669+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.626053+00:00"
     },
     "Пермский край": {
       "rocket": false,
@@ -281,7 +282,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T04:25:42.604840+00:00"
+      "droneAlert_time": "2026-06-25T04:30:54.623429+00:00"
     },
     "Дагестан": {
       "rocket": false,
