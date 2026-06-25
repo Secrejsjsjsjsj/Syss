@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T05:08:45.217986+00:00",
+  "last_updated": "2026-06-25T05:14:04.359125+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -119,9 +119,8 @@
     },
     "Краснодарский край": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-06-25T05:05:39.123865+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Ставропольский край": {
       "rocket": false,
@@ -142,7 +141,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T05:05:39.123562+00:00"
+      "droneAlert_time": "2026-06-25T05:10:50.855218+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -173,7 +172,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T05:05:39.122828+00:00"
+      "droneAlert_time": "2026-06-25T05:10:50.854485+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -199,7 +198,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T05:05:39.122923+00:00"
+      "droneAlert_time": "2026-06-25T05:10:50.854581+00:00"
     },
     "Пермский край": {
       "rocket": false,
@@ -280,7 +279,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-25T05:05:39.120298+00:00"
+      "droneAlert_time": "2026-06-25T05:10:50.851786+00:00"
     },
     "Дагестан": {
       "rocket": false,
