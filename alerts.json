@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T06:20:59.194762+00:00",
+  "last_updated": "2026-06-26T06:26:04.325945+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-26T06:20:45.377355+00:00"
+      "droneAlert_time": "2026-06-26T06:25:36.825206+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -96,8 +96,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-26T06:25:36.823751+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -159,7 +160,7 @@
     "Чувашия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Мордовия": {
       "rocket": false,
