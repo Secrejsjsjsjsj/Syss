@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T17:26:24.407678+00:00",
+  "last_updated": "2026-06-30T17:31:29.721311+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T17:25:41.266621+00:00"
+      "droneAlert_time": "2026-06-30T17:31:02.035740+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -108,7 +108,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T17:25:41.266057+00:00"
+      "droneAlert_time": "2026-06-30T17:31:02.035142+00:00"
     },
     "Тверская область": {
       "rocket": false,
