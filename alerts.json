@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T13:06:11.748873+00:00",
+  "last_updated": "2026-06-30T13:11:25.489247+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -107,7 +107,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T13:05:42.959660+00:00"
+      "droneAlert_time": "2026-06-30T13:10:57.095243+00:00"
     },
     "Тверская область": {
       "rocket": false,
