@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T04:16:49.798472+00:00",
+  "last_updated": "2026-06-30T04:21:38.612626+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -125,7 +125,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T04:15:40.987724+00:00"
+      "droneAlert_time": "2026-06-30T04:20:50.423770+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -136,12 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T04:15:40.989760+00:00"
+      "droneAlert_time": "2026-06-30T04:20:50.425639+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-30T04:20:50.423968+00:00"
     },
     "Татарстан": {
       "rocket": false,
