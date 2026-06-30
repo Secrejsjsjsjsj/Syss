@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T00:52:17.560778+00:00",
+  "last_updated": "2026-06-30T00:57:01.372689+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T00:50:56.060872+00:00"
+      "droneAlert_time": "2026-06-30T00:55:38.687463+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -44,8 +44,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-06-30T00:55:38.686412+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -61,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T00:50:56.060776+00:00"
+      "droneAlert_time": "2026-06-30T00:55:38.687371+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -75,9 +76,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-06-29T23:55:38.350893+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -125,7 +125,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T00:50:56.060920+00:00"
+      "droneAlert_time": "2026-06-30T00:55:38.687509+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -136,13 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T00:50:56.061334+00:00"
+      "droneAlert_time": "2026-06-30T00:55:38.687904+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-06-30T00:50:56.061011+00:00"
+      "droneAlert_time": "2026-06-30T00:55:38.687597+00:00"
     },
     "Татарстан": {
       "rocket": false,
