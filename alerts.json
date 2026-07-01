@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T05:16:41.428294+00:00",
+  "last_updated": "2026-07-01T05:22:04.512677+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -120,24 +120,24 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T05:15:45.052956+00:00"
+      "droneAlert_time": "2026-07-01T05:20:57.992092+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ростовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T05:15:45.052520+00:00"
+      "droneAlert_time": "2026-07-01T05:20:57.991644+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T05:15:45.052452+00:00"
+      "droneAlert_time": "2026-07-01T05:20:57.991576+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -278,7 +278,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T05:15:45.052960+00:00"
+      "droneAlert_time": "2026-07-01T05:20:57.992095+00:00"
     },
     "Дагестан": {
       "rocket": false,
