@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T08:52:42.243083+00:00",
+  "last_updated": "2026-07-01T08:57:35.298330+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -161,7 +161,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T08:50:57.485269+00:00"
+      "droneAlert_time": "2026-07-01T08:55:40.502613+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -176,7 +176,7 @@
     "Саратовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ульяновская область": {
       "rocket": false,
