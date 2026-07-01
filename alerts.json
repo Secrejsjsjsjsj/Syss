@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:27:40.317327+00:00",
+  "last_updated": "2026-07-01T20:32:57.011875+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:25:41.023174+00:00"
+      "droneAlert_time": "2026-07-01T20:31:04.955281+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -61,9 +61,8 @@
     },
     "Липецкая область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:20:58.984322+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Нижегородская область": {
       "rocket": false,
@@ -114,7 +113,7 @@
     "Тульская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ярославская область": {
       "rocket": false,
@@ -136,13 +135,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:25:41.023122+00:00"
+      "droneAlert_time": "2026-07-01T20:31:04.955209+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:25:41.024154+00:00"
+      "droneAlert_time": "2026-07-01T20:31:04.956232+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -178,7 +177,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:25:41.024205+00:00"
+      "droneAlert_time": "2026-07-01T20:31:04.956282+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -189,7 +188,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-01T20:25:41.024303+00:00"
+      "droneAlert_time": "2026-07-01T20:31:04.956377+00:00"
     },
     "Свердловская область": {
       "rocket": false,
