@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T03:11:34.699317+00:00",
+  "last_updated": "2026-07-01T03:16:08.617384+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -193,8 +193,9 @@
     },
     "Оренбургская область": {
       "rocket": true,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-01T03:15:45.851395+00:00"
     },
     "Пермский край": {
       "rocket": false,
