@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:31:47.981034+00:00",
+  "last_updated": "2026-07-02T04:36:24.176644+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -65,7 +65,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-02T04:31:03.733296+00:00"
+      "droneAlert_time": "2026-07-02T04:35:35.864374+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -75,7 +75,7 @@
     "Орловская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Пензенская область": {
       "rocket": false,
@@ -123,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-02T04:31:03.734334+00:00"
+      "droneAlert_time": "2026-07-02T04:35:35.865392+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
