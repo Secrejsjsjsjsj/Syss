@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T00:27:47.053230+00:00",
+  "last_updated": "2026-07-03T00:33:13.258959+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-03T00:25:40.590294+00:00"
+      "droneAlert_time": "2026-07-03T00:31:06.021976+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -123,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-03T00:25:40.589938+00:00"
+      "droneAlert_time": "2026-07-03T00:31:06.021608+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
