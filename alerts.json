@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:33:18.084526+00:00",
+  "last_updated": "2026-07-03T19:37:38.092233+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-03T19:31:12.517125+00:00"
+      "droneAlert_time": "2026-07-03T19:35:39.575821+00:00"
     },
     "Ярославская область": {
       "rocket": false,
