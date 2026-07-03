@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:15:57.286585+00:00",
+  "last_updated": "2026-07-03T15:21:15.610166+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -93,9 +93,8 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-03T14:15:44.024675+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Тамбовская область": {
       "rocket": false,
