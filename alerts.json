@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T22:48:35.975199+00:00",
+  "last_updated": "2026-07-04T22:53:45.693393+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -130,7 +130,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T22:45:45.079482+00:00"
+      "droneAlert_time": "2026-07-04T22:51:04.092361+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
