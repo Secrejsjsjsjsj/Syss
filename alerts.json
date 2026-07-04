@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:04:05.193878+00:00",
+  "last_updated": "2026-07-04T01:08:58.312680+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -14,7 +14,7 @@
     "Ленинградская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Белгородская область": {
       "rocket": false,
@@ -90,7 +90,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T01:01:13.637751+00:00"
+      "droneAlert_time": "2026-07-04T01:05:39.968794+00:00"
     },
     "Рязанская область": {
       "rocket": true,
@@ -107,7 +107,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T01:01:13.636194+00:00"
+      "droneAlert_time": "2026-07-04T01:05:39.967219+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -123,9 +123,8 @@
     },
     "Ярославская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:01:15.021491+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Краснодарский край": {
       "rocket": false,
@@ -139,9 +138,8 @@
     },
     "Ростовская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:01:15.021511+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Волгоградская область": {
       "rocket": false,
@@ -149,7 +147,7 @@
       "droneDanger": false
     },
     "Татарстан": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-07-04T00:40:59.076376+00:00"
@@ -160,12 +158,12 @@
       "droneDanger": false
     },
     "Марий Эл": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
     "Чувашия": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-07-04T00:45:40.928250+00:00"
@@ -288,9 +286,8 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:01:15.026395+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Дагестан": {
       "rocket": false,
