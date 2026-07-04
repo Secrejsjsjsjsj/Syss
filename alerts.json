@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T03:19:56.268305+00:00",
+  "last_updated": "2026-07-04T03:24:25.000173+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -10,13 +10,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T03:15:39.852075+00:00"
+      "droneAlert_time": "2026-07-04T03:20:56.292745+00:00"
     },
     "Ленинградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T03:15:39.851163+00:00"
+      "droneAlert_time": "2026-07-04T03:20:56.291824+00:00"
     },
     "Белгородская область": {
       "rocket": false,
@@ -48,8 +48,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-04T03:20:56.287148+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -93,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T03:15:39.848425+00:00"
+      "droneAlert_time": "2026-07-04T03:20:56.289062+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -111,7 +112,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T03:15:39.846874+00:00"
+      "droneAlert_time": "2026-07-04T03:20:56.287509+00:00"
     },
     "Тверская область": {
       "rocket": false,
