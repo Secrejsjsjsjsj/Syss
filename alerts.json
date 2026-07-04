@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T00:12:53.641378+00:00",
+  "last_updated": "2026-07-04T00:17:51.049531+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,8 +23,9 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-04T00:15:44.384318+00:00"
     },
     "Владимирская область": {
       "rocket": true,
@@ -87,7 +88,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:11:09.499515+00:00"
+      "droneAlert_time": "2026-07-04T00:15:44.387693+00:00"
     },
     "Рязанская область": {
       "rocket": true,
@@ -104,12 +105,13 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:11:09.498411+00:00"
+      "droneAlert_time": "2026-07-04T00:15:44.386591+00:00"
     },
     "Тверская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-04T00:15:44.386020+00:00"
     },
     "Тульская область": {
       "rocket": true,
@@ -127,7 +129,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:11:09.499477+00:00"
+      "droneAlert_time": "2026-07-04T00:15:44.387644+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -209,7 +211,7 @@
       "droneDanger": false
     },
     "Пермский край": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
