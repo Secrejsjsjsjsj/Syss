@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:34:37.373676+00:00",
+  "last_updated": "2026-07-04T01:39:54.552277+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -90,24 +90,23 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T01:31:07.862347+00:00"
+      "droneAlert_time": "2026-07-04T01:35:41.077952+00:00"
     },
     "Рязанская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": true
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:31:09.231690+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T01:31:07.860982+00:00"
+      "droneAlert_time": "2026-07-04T01:35:41.076369+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -116,10 +115,9 @@
       "droneAlert_time": "2026-07-04T01:25:35.840937+00:00"
     },
     "Тульская область": {
-      "rocket": true,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-04T00:31:09.231851+00:00"
+      "rocket": false,
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Ярославская область": {
       "rocket": false,
@@ -155,7 +153,7 @@
       "droneAlert_time": "2026-07-04T00:40:59.076376+00:00"
     },
     "Башкортостан": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -177,7 +175,7 @@
       "droneAlert_time": "2026-07-04T00:45:40.928256+00:00"
     },
     "Удмуртская Республика": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -212,7 +210,7 @@
       "droneDanger": false
     },
     "Пермский край": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
