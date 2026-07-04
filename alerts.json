@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T05:37:56.039705+00:00",
+  "last_updated": "2026-07-04T05:43:38.928298+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -10,13 +10,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T05:35:41.767060+00:00"
+      "droneAlert_time": "2026-07-04T05:41:01.411067+00:00"
     },
     "Ленинградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-04T05:35:41.764863+00:00"
+      "droneAlert_time": "2026-07-04T05:41:01.408835+00:00"
     },
     "Белгородская область": {
       "rocket": false,
@@ -86,8 +86,9 @@
     },
     "Псковская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-04T05:41:01.406014+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -280,8 +281,9 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-04T05:41:01.405965+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -316,7 +318,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     }
   }
 }
