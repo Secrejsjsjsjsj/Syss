@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T02:57:45.764223+00:00",
+  "last_updated": "2026-07-06T03:03:33.805123+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -9,8 +9,9 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T03:01:19.265717+00:00"
     },
     "Ленинградская область": {
       "rocket": false,
@@ -37,7 +38,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.419563+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.259544+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -75,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.425658+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.265726+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -92,7 +93,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.423642+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.263689+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -128,7 +129,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.425842+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.265915+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -189,13 +190,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.422699+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.262734+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:55:38.422749+00:00"
+      "droneAlert_time": "2026-07-06T03:01:19.262784+00:00"
     },
     "Свердловская область": {
       "rocket": false,
