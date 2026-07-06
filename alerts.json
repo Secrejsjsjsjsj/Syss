@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T05:48:32.311834+00:00",
+  "last_updated": "2026-07-06T05:54:12.337231+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,8 +45,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T05:51:06.691092+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -72,7 +73,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:45:45.741138+00:00"
+      "droneAlert_time": "2026-07-06T05:51:06.696354+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -89,7 +90,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:45:45.739120+00:00"
+      "droneAlert_time": "2026-07-06T05:51:06.694283+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -123,7 +124,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:45:45.741326+00:00"
+      "droneAlert_time": "2026-07-06T05:51:06.696545+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -308,7 +309,7 @@
     "ХМАО": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "ЯНАО": {
       "rocket": false,
