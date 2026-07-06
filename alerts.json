@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T11:15:08.565625+00:00",
+  "last_updated": "2026-07-06T11:19:20.048918+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -44,9 +44,8 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-06T10:15:43.949371+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -75,8 +74,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T11:15:46.073247+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -111,14 +111,15 @@
     },
     "Тульская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T11:15:46.074323+00:00"
     },
     "Ярославская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T11:11:45.930596+00:00"
+      "droneAlert_time": "2026-07-06T11:15:46.076647+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
