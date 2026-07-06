@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-07-06T04:18:11.304338+00:00",
+  "last_updated": "2026-07-06T04:23:34.668375+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T04:21:07.926789+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -73,7 +74,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T04:15:43.097566+00:00"
+      "droneAlert_time": "2026-07-06T04:21:07.930808+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -90,7 +91,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T04:15:43.095512+00:00"
+      "droneAlert_time": "2026-07-06T04:21:07.928863+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -126,7 +127,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T04:15:43.097802+00:00"
+      "droneAlert_time": "2026-07-06T04:21:07.930989+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -192,7 +193,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T04:15:43.094592+00:00"
+      "droneAlert_time": "2026-07-06T04:21:07.927998+00:00"
     },
     "Свердловская область": {
       "rocket": false,
