@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-07-06T05:23:52.577656+00:00",
+  "last_updated": "2026-07-06T05:28:21.624297+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-06T04:21:07.926789+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -73,7 +72,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:21:07.267130+00:00"
+      "droneAlert_time": "2026-07-06T05:25:36.365522+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -90,7 +89,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:21:07.265257+00:00"
+      "droneAlert_time": "2026-07-06T05:25:36.363642+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -124,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T05:21:07.267310+00:00"
+      "droneAlert_time": "2026-07-06T05:25:36.365704+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -149,7 +148,7 @@
     "Татарстан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Башкортостан": {
       "rocket": false,
