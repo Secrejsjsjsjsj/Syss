@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-07-06T02:03:11.745277+00:00",
+  "last_updated": "2026-07-06T02:07:42.979059+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-06T02:05:40.840726+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -37,7 +38,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.582348+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.838746+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -75,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.588272+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.844891+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -92,7 +93,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.586370+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.842860+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -128,7 +129,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.588452+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.845086+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -150,7 +151,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.583141+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.839544+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -191,13 +192,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.585451+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.841921+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-06T02:01:18.585499+00:00"
+      "droneAlert_time": "2026-07-06T02:05:40.841971+00:00"
     },
     "Свердловская область": {
       "rocket": false,
