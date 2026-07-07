@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:28:15.284850+00:00",
+  "last_updated": "2026-07-07T20:34:03.165231+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -94,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:25:36.866529+00:00"
+      "droneAlert_time": "2026-07-07T20:31:27.272878+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -117,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:25:36.867493+00:00"
+      "droneAlert_time": "2026-07-07T20:31:27.273893+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -128,7 +128,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ставропольский край": {
       "rocket": false,
@@ -139,7 +139,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:25:36.864814+00:00"
+      "droneAlert_time": "2026-07-07T20:31:27.271093+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -285,7 +285,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:25:36.864584+00:00"
+      "droneAlert_time": "2026-07-07T20:31:27.270853+00:00"
     },
     "Дагестан": {
       "rocket": false,
