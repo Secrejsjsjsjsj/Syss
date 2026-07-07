@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T20:43:25.129579+00:00",
+  "last_updated": "2026-07-07T20:47:51.640368+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -28,15 +28,14 @@
     },
     "Владимирская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-07T19:41:11.786259+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Воронежская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:41:11.713661+00:00"
+      "droneAlert_time": "2026-07-07T20:45:43.795690+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -95,13 +94,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:41:11.712325+00:00"
+      "droneAlert_time": "2026-07-07T20:45:43.794365+00:00"
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-07T19:41:11.790769+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Тамбовская область": {
       "rocket": false,
@@ -110,15 +108,14 @@
     },
     "Тверская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-07T19:41:11.792810+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Тульская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:41:11.713338+00:00"
+      "droneAlert_time": "2026-07-07T20:45:43.795368+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -140,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:41:11.710539+00:00"
+      "droneAlert_time": "2026-07-07T20:45:43.792614+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -286,7 +283,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-07T20:41:11.710302+00:00"
+      "droneAlert_time": "2026-07-07T20:45:43.792368+00:00"
     },
     "Дагестан": {
       "rocket": false,
