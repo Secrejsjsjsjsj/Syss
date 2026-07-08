@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T05:07:54.588041+00:00",
+  "last_updated": "2026-07-08T05:13:19.545750+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -92,7 +92,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T05:05:37.486895+00:00"
+      "droneAlert_time": "2026-07-08T05:11:08.640670+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -149,7 +149,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T05:05:37.488132+00:00"
+      "droneAlert_time": "2026-07-08T05:11:08.641868+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -174,9 +174,8 @@
     },
     "Самарская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-08T05:05:37.485385+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Саратовская область": {
       "rocket": false,
