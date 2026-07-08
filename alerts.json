@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:45:31.305581+00:00",
+  "last_updated": "2026-07-08T22:55:57.313030+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494594+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.583515+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494373+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.583293+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494326+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.583246+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -98,7 +98,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494462+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.583383+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -109,7 +109,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494806+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.583747+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -135,13 +135,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.493658+00:00"
+      "droneAlert_time": "2026-07-08T22:51:16.582571+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-08T22:41:09.494278+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Татарстан": {
       "rocket": false,
