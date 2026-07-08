@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T07:18:19.318072+00:00",
+  "last_updated": "2026-07-08T07:23:35.166761+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -92,7 +92,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T07:15:45.743798+00:00"
+      "droneAlert_time": "2026-07-08T07:21:10.943012+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -149,7 +149,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T07:15:45.745012+00:00"
+      "droneAlert_time": "2026-07-08T07:21:10.944316+00:00"
     },
     "Марий Эл": {
       "rocket": false,
