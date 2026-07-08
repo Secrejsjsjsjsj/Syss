@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T23:36:03.181645+00:00",
+  "last_updated": "2026-07-08T23:45:57.960050+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.672024+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.087491+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.671820+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.087264+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.671777+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.087212+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -88,7 +88,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.673154+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.088814+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -99,7 +99,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.671902+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.087357+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -110,7 +110,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.672221+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.087712+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -136,7 +136,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-08T23:31:25.671152+00:00"
+      "droneAlert_time": "2026-07-08T23:41:09.086511+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
