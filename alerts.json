@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T19:38:12.510862+00:00",
+  "last_updated": "2026-07-10T19:43:34.006373+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -133,7 +133,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-10T19:35:41.631053+00:00"
+      "droneAlert_time": "2026-07-10T19:41:13.530388+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -277,9 +277,8 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-10T19:01:18.322792+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Дагестан": {
       "rocket": false,
