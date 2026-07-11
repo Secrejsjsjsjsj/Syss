@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T22:54:36.105394+00:00",
+  "last_updated": "2026-07-11T22:59:06.799520+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,18 +29,18 @@
     "Владимирская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Воронежская область": {
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:51:15.881059+00:00"
+      "droneAlert_time": "2026-07-11T22:55:38.611215+00:00"
     },
     "Ивановская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Калужская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:51:15.880534+00:00"
+      "droneAlert_time": "2026-07-11T22:55:38.610711+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -91,7 +91,7 @@
     "Рязанская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Смоленская область": {
       "rocket": false,
@@ -132,7 +132,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:51:15.881319+00:00"
+      "droneAlert_time": "2026-07-11T22:55:38.611478+00:00"
     },
     "Волгоградская область": {
       "rocket": true,
@@ -278,7 +278,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:51:15.879892+00:00"
+      "droneAlert_time": "2026-07-11T22:55:38.610080+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -314,7 +314,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:51:15.878772+00:00"
+      "droneAlert_time": "2026-07-11T22:55:38.609010+00:00"
     }
   }
 }
