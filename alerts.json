@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T22:04:36.336840+00:00",
+  "last_updated": "2026-07-11T22:09:08.632145+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.804822+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.833457+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.804332+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.832913+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -122,7 +122,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.803705+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.832289+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -133,13 +133,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.803877+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.832462+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.804725+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.833363+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -280,7 +280,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.803708+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.832294+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -316,7 +316,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-11T22:01:23.802606+00:00"
+      "droneAlert_time": "2026-07-11T22:05:40.831151+00:00"
     }
   }
 }
