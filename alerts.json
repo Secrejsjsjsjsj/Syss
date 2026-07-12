@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T06:24:00.937923+00:00",
+  "last_updated": "2026-07-12T06:28:06.690721+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -65,8 +65,9 @@
     },
     "Нижегородская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T06:25:35.767875+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -99,7 +100,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:21:34.848748+00:00"
+      "droneAlert_time": "2026-07-12T06:25:35.764095+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -115,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:21:34.849845+00:00"
+      "droneAlert_time": "2026-07-12T06:25:35.765627+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -124,8 +125,9 @@
     },
     "Краснодарский край": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T06:25:35.769691+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -161,7 +163,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:21:34.851692+00:00"
+      "droneAlert_time": "2026-07-12T06:25:35.768156+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -281,8 +283,9 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T06:25:35.769694+00:00"
     },
     "Дагестан": {
       "rocket": false,
