@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T04:47:53.924163+00:00",
+  "last_updated": "2026-07-12T04:53:02.273214+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -76,8 +76,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T04:51:10.765282+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -99,7 +100,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T04:46:07.508132+00:00"
+      "droneAlert_time": "2026-07-12T04:51:10.764630+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -115,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T04:46:07.509665+00:00"
+      "droneAlert_time": "2026-07-12T04:51:10.766116+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -161,7 +162,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T04:46:07.512109+00:00"
+      "droneAlert_time": "2026-07-12T04:51:10.768614+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
