@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T06:56:06.918336+00:00",
+  "last_updated": "2026-07-12T07:04:34.564591+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -44,8 +44,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T07:01:48.938728+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -75,9 +76,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-12T05:57:05.627788+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -99,7 +99,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:53:21.782501+00:00"
+      "droneAlert_time": "2026-07-12T07:01:48.938681+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -115,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:53:21.783981+00:00"
+      "droneAlert_time": "2026-07-12T07:01:48.940108+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -125,7 +125,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Ставропольский край": {
       "rocket": false,
@@ -164,8 +164,9 @@
     },
     "Республика Мордовия": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-12T07:01:48.942229+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -281,7 +282,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-12T06:53:21.787897+00:00"
+      "droneAlert_time": "2026-07-12T07:01:48.943913+00:00"
     },
     "Дагестан": {
       "rocket": false,
