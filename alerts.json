@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T22:33:41.389037+00:00",
+  "last_updated": "2026-07-14T22:38:14.670733+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -57,7 +57,7 @@
       "droneDanger": true
     },
     "Липецкая область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
