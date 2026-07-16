@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T22:06:56.735353+00:00",
+  "last_updated": "2026-07-16T22:12:09.214408+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-16T22:05:41.139322+00:00"
+      "droneAlert_time": "2026-07-16T22:10:53.983880+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -61,7 +61,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-16T22:05:41.139418+00:00"
+      "droneAlert_time": "2026-07-16T22:10:53.983974+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-16T22:05:41.138911+00:00"
+      "droneAlert_time": "2026-07-16T22:10:53.983504+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -123,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-16T22:05:41.139568+00:00"
+      "droneAlert_time": "2026-07-16T22:10:53.984181+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -313,9 +313,8 @@
     },
     "Адыгея": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-16T21:05:46.133294+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     }
   }
 }
