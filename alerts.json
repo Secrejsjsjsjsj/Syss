@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T17:41:22.145990+00:00",
+  "last_updated": "2026-07-16T17:46:22.323623+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -309,8 +309,9 @@
     },
     "Адыгея": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-16T17:45:45.923417+00:00"
     }
   }
 }
