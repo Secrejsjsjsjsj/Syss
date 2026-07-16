@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T05:06:29.661932+00:00",
+  "last_updated": "2026-07-16T05:11:25.995552+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -63,7 +63,7 @@
     "Липецкая область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Нижегородская область": {
       "rocket": false,
@@ -121,7 +121,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-16T05:05:40.834440+00:00"
+      "droneAlert_time": "2026-07-16T05:11:05.073287+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
