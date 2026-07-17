@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T00:32:44.728372+00:00",
+  "last_updated": "2026-07-17T00:37:36.209188+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-17T00:31:07.018660+00:00"
+      "droneAlert_time": "2026-07-17T00:35:44.866652+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-17T00:31:07.020016+00:00"
+      "droneAlert_time": "2026-07-17T00:35:44.868054+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -62,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-17T00:31:07.018748+00:00"
+      "droneAlert_time": "2026-07-17T00:35:44.866745+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -78,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-17T00:31:07.018296+00:00"
+      "droneAlert_time": "2026-07-17T00:35:44.866283+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-17T00:31:07.019719+00:00"
+      "droneAlert_time": "2026-07-17T00:35:44.867734+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -278,9 +278,8 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-16T23:35:39.299994+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Дагестан": {
       "rocket": false,
@@ -314,8 +313,9 @@
     },
     "Адыгея": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-17T00:35:44.866133+00:00"
     }
   }
 }
