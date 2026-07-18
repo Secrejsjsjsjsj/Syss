@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T06:52:24.328298+00:00",
+  "last_updated": "2026-07-18T06:57:31.740168+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -102,13 +102,15 @@
     },
     "Тамбовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-18T06:55:38.734793+00:00"
     },
     "Тверская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-18T06:55:38.737242+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -139,8 +141,9 @@
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-18T06:55:38.734759+00:00"
     },
     "Татарстан": {
       "rocket": false,
