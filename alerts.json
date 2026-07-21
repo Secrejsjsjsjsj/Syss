@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T20:45:15.672596+00:00",
+  "last_updated": "2026-07-21T20:51:11.202060+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -55,7 +55,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-21T20:40:46.047958+00:00"
+      "droneAlert_time": "2026-07-21T20:45:52.404794+00:00"
     },
     "Липецкая область": {
       "rocket": false,
@@ -95,8 +95,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": false
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-21T20:45:52.410120+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -106,7 +107,7 @@
     "Тверская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Тульская область": {
       "rocket": false,
@@ -122,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-21T20:40:46.052726+00:00"
+      "droneAlert_time": "2026-07-21T20:45:52.409704+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -137,7 +138,7 @@
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Татарстан": {
       "rocket": false,
@@ -278,7 +279,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-21T20:40:46.052730+00:00"
+      "droneAlert_time": "2026-07-21T20:45:52.409708+00:00"
     },
     "Дагестан": {
       "rocket": false,
