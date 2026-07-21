@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T00:34:43.419463+00:00",
+  "last_updated": "2026-07-21T00:39:27.440340+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -55,7 +55,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-21T00:30:55.656063+00:00"
+      "droneAlert_time": "2026-07-21T00:35:37.377013+00:00"
     },
     "Липецкая область": {
       "rocket": true,
@@ -91,7 +91,7 @@
     "Рязанская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Смоленская область": {
       "rocket": false,
@@ -277,7 +277,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-21T00:30:55.655885+00:00"
+      "droneAlert_time": "2026-07-21T00:35:37.376835+00:00"
     },
     "Дагестан": {
       "rocket": false,
