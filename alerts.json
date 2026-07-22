@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T23:05:28.855960+00:00",
+  "last_updated": "2026-07-22T23:11:42.629542+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,9 +23,8 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-22T22:05:42.631241+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Владимирская область": {
       "rocket": false,
@@ -36,7 +35,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.985082+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.295389+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -47,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.984853+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.295153+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -63,7 +62,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.983045+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.293490+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -79,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.982061+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.292593+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -135,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.983520+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.293931+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T23:00:56.984532+00:00"
+      "droneAlert_time": "2026-07-22T23:07:05.294871+00:00"
     },
     "Татарстан": {
       "rocket": false,
