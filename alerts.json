@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T22:10:23.968762+00:00",
+  "last_updated": "2026-07-22T22:20:50.093101+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -34,8 +34,9 @@
     },
     "Воронежская область": {
       "rocket": true,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-22T22:15:46.281113+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T22:05:42.630571+00:00"
+      "droneAlert_time": "2026-07-22T22:15:46.280117+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -63,7 +64,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T22:05:42.630354+00:00"
+      "droneAlert_time": "2026-07-22T22:15:46.279897+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -79,7 +80,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T22:05:42.629370+00:00"
+      "droneAlert_time": "2026-07-22T22:15:46.278898+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -135,12 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T22:05:42.630830+00:00"
+      "droneAlert_time": "2026-07-22T22:15:46.280379+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-22T22:15:46.281425+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -178,7 +180,7 @@
       "droneDanger": false
     },
     "Саратовская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": true
     },
@@ -314,8 +316,9 @@
     },
     "Адыгея": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-22T22:15:46.275056+00:00"
     }
   }
 }
