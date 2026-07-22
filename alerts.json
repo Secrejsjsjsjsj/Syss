@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T06:35:18.672334+00:00",
+  "last_updated": "2026-07-22T06:45:29.408949+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -30,7 +30,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T06:30:56.492036+00:00"
+      "droneAlert_time": "2026-07-22T06:40:59.173611+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -117,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-22T06:30:56.492455+00:00"
+      "droneAlert_time": "2026-07-22T06:40:59.174202+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
