@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T16:35:23.487557+00:00",
+  "last_updated": "2026-07-22T16:45:18.903528+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -53,8 +53,9 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-22T16:40:42.793767+00:00"
     },
     "Липецкая область": {
       "rocket": false,
