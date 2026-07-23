@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T23:53:02.749233+00:00",
+  "last_updated": "2026-07-23T23:57:47.910373+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -64,7 +64,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.944765+00:00"
+      "droneAlert_time": "2026-07-23T23:55:41.441115+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -75,13 +75,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.947471+00:00"
+      "droneAlert_time": "2026-07-23T23:55:41.443962+00:00"
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.624703+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -92,13 +91,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.947068+00:00"
+      "droneAlert_time": "2026-07-23T23:55:41.443541+00:00"
     },
     "Рязанская область": {
-      "rocket": true,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.946978+00:00"
+      "rocket": false,
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Смоленская область": {
       "rocket": false,
@@ -115,10 +113,10 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.948765+00:00"
+      "droneAlert_time": "2026-07-23T23:55:41.445309+00:00"
     },
     "Тульская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-07-23T23:50:44.941802+00:00"
@@ -127,7 +125,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T23:50:44.942778+00:00"
+      "droneAlert_time": "2026-07-23T23:55:41.439016+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
