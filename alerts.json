@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T04:30:17.313647+00:00",
+  "last_updated": "2026-07-23T04:35:10.841218+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T04:25:40.470800+00:00"
+      "droneAlert_time": "2026-07-23T04:30:50.542660+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,13 +77,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T04:25:40.468634+00:00"
+      "droneAlert_time": "2026-07-23T04:30:50.539797+00:00"
     },
     "Пензенская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T04:25:40.472172+00:00"
+      "droneAlert_time": "2026-07-23T04:30:50.544514+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -144,7 +144,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T04:25:40.473503+00:00"
+      "droneAlert_time": "2026-07-23T04:30:50.546330+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -185,7 +185,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T04:25:40.472774+00:00"
+      "droneAlert_time": "2026-07-23T04:30:50.545340+00:00"
     },
     "Свердловская область": {
       "rocket": false,
