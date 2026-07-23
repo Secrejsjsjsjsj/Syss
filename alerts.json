@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T02:56:03.069666+00:00",
+  "last_updated": "2026-07-23T03:06:15.204536+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,8 +23,9 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-23T03:01:04.462508+00:00"
     },
     "Владимирская область": {
       "rocket": false,
@@ -35,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.440752+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.463721+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.440515+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.463472+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -62,7 +63,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.438616+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.461618+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -78,13 +79,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.437608+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.460534+00:00"
     },
     "Пензенская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.442376+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.465319+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -120,7 +121,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.442320+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.465264+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -150,7 +151,7 @@
     "Башкортостан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Марий Эл": {
       "rocket": false,
@@ -186,7 +187,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T02:50:45.443220+00:00"
+      "droneAlert_time": "2026-07-23T03:01:04.466137+00:00"
     },
     "Свердловская область": {
       "rocket": false,
