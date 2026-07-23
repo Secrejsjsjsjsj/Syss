@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T22:57:40.925500+00:00",
+  "last_updated": "2026-07-23T23:02:57.961740+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,9 +23,8 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-23T21:55:39.316455+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Владимирская область": {
       "rocket": false,
@@ -64,7 +63,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.629070+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.816580+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -75,7 +74,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.631948+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.819275+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -92,13 +91,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.631437+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.818860+00:00"
     },
     "Рязанская область": {
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.631349+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.818774+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -127,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.626974+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.814600+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -288,7 +287,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-23T22:55:37.625682+00:00"
+      "droneAlert_time": "2026-07-23T23:00:59.813364+00:00"
     },
     "Дагестан": {
       "rocket": false,
