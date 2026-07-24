@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T19:55:14.603295+00:00",
+  "last_updated": "2026-07-24T20:05:09.713553+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:50:45.800135+00:00"
+      "droneAlert_time": "2026-07-24T20:01:03.264932+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -44,9 +44,8 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:01:01.341038+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -102,7 +101,7 @@
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Тверская область": {
       "rocket": false,
@@ -124,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:50:45.799821+00:00"
+      "droneAlert_time": "2026-07-24T20:01:03.264270+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -135,7 +134,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:50:45.800034+00:00"
+      "droneAlert_time": "2026-07-24T20:01:03.264466+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -281,7 +280,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:50:45.796294+00:00"
+      "droneAlert_time": "2026-07-24T20:01:03.260754+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -317,7 +316,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T19:50:45.798611+00:00"
+      "droneAlert_time": "2026-07-24T20:01:03.263088+00:00"
     }
   }
 }
