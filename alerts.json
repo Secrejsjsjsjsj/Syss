@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T01:12:35.221670+00:00",
+  "last_updated": "2026-07-24T01:18:01.543305+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,8 +23,9 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-24T01:15:47.180065+00:00"
     },
     "Владимирская область": {
       "rocket": false,
@@ -74,7 +75,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T01:10:45.478679+00:00"
+      "droneAlert_time": "2026-07-24T01:15:47.183135+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -91,7 +92,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T01:10:45.478247+00:00"
+      "droneAlert_time": "2026-07-24T01:15:47.182741+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -113,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T01:10:45.480015+00:00"
+      "droneAlert_time": "2026-07-24T01:15:47.184500+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -125,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-24T01:10:45.473834+00:00"
+      "droneAlert_time": "2026-07-24T01:15:47.178396+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -284,8 +285,9 @@
     },
     "Крым": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-24T01:15:47.178323+00:00"
     },
     "Дагестан": {
       "rocket": false,
