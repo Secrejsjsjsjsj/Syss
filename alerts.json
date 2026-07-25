@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T05:11:04.076836+00:00",
+  "last_updated": "2026-07-25T05:21:59.885160+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -60,13 +60,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.049131+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.395676+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.047351+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.393884+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -102,7 +102,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.044795+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.391335+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.049278+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.395811+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -124,7 +124,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.044980+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.391518+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -155,7 +155,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.049462+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.395992+00:00"
     },
     "Чувашия": {
       "rocket": false,
@@ -166,7 +166,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-25T05:05:50.047302+00:00"
+      "droneAlert_time": "2026-07-25T05:16:22.393836+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
