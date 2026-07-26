@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T17:40:31.973384+00:00",
+  "last_updated": "2026-07-26T17:50:17.175174+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -34,8 +34,9 @@
     },
     "Воронежская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-26T17:45:44.990640+00:00"
     },
     "Ивановская область": {
       "rocket": false,
