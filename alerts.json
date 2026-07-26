@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T22:19:21.282644+00:00",
+  "last_updated": "2026-07-26T22:24:46.353654+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.226105+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.003169+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -77,13 +77,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.225133+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002389+00:00"
     },
     "Пензенская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.225577+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002708+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -104,7 +104,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.224705+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002066+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -135,13 +135,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.225241+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002462+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.224752+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002102+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -182,7 +182,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T22:15:41.225179+00:00"
+      "droneAlert_time": "2026-07-26T22:20:49.002425+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
