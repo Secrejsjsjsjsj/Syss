@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T21:29:56.106770+00:00",
+  "last_updated": "2026-07-26T21:34:45.592491+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.822526+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614034+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -66,7 +66,7 @@
     "Нижегородская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Новгородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.823151+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614647+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -103,7 +103,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.822704+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614213+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -134,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.823249+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614756+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.822752+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614261+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -181,7 +181,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-26T21:25:43.823199+00:00"
+      "droneAlert_time": "2026-07-26T21:30:51.614706+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
