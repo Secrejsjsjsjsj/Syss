@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T20:53:59.484766+00:00",
+  "last_updated": "2026-07-28T20:59:17.885660+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-28T20:50:46.640143+00:00"
+      "droneAlert_time": "2026-07-28T20:55:50.344155+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-28T20:50:46.639700+00:00"
+      "droneAlert_time": "2026-07-28T20:55:50.343814+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -62,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-28T20:50:46.637373+00:00"
+      "droneAlert_time": "2026-07-28T20:55:50.341748+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -134,7 +134,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-28T20:50:46.640094+00:00"
+      "droneAlert_time": "2026-07-28T20:55:50.344118+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -315,7 +315,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-28T20:50:46.639063+00:00"
+      "droneAlert_time": "2026-07-28T20:55:50.343333+00:00"
     }
   }
 }
