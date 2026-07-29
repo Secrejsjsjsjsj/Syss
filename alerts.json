@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T23:53:59.130235+00:00",
+  "last_updated": "2026-07-29T23:58:36.585099+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.672040+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.965453+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -62,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.672746+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.966121+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -76,9 +76,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-29T22:50:52.227226+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -124,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.672390+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.965778+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -135,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.670769+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.964222+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.669879+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.963385+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -317,7 +316,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T23:50:46.672435+00:00"
+      "droneAlert_time": "2026-07-29T23:55:35.965821+00:00"
     }
   }
 }
