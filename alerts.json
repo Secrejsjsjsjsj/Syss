@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T06:30:16.860785+00:00",
+  "last_updated": "2026-07-29T06:35:31.729998+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.171563+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.099226+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.173419+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.101886+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -103,7 +103,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.172729+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.100899+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.172609+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.100724+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -155,7 +155,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.174203+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.103264+00:00"
     },
     "Чувашия": {
       "rocket": false,
@@ -166,7 +166,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.172890+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.101129+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -282,7 +282,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T06:25:40.172461+00:00"
+      "droneAlert_time": "2026-07-29T06:30:56.100509+00:00"
     },
     "Дагестан": {
       "rocket": false,
