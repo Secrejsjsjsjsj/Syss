@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T08:15:29.061531+00:00",
+  "last_updated": "2026-07-29T08:25:57.660842+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -200,7 +200,7 @@
     "Пермский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Новосибирская область": {
       "rocket": false,
@@ -276,7 +276,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-29T08:10:47.026249+00:00"
+      "droneAlert_time": "2026-07-29T08:20:54.292884+00:00"
     },
     "Дагестан": {
       "rocket": false,
