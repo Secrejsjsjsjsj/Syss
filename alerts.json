@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T05:39:34.471490+00:00",
+  "last_updated": "2026-07-30T05:44:42.319095+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -53,9 +53,8 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:35:37.095328+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Липецкая область": {
       "rocket": false,
@@ -66,7 +65,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:35:36.983485+00:00"
+      "droneAlert_time": "2026-07-30T05:40:47.978039+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -157,7 +156,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:35:36.983915+00:00"
+      "droneAlert_time": "2026-07-30T05:40:47.978493+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -183,7 +182,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:35:36.983024+00:00"
+      "droneAlert_time": "2026-07-30T05:40:47.977589+00:00"
     },
     "Свердловская область": {
       "rocket": false,
