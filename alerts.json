@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T04:44:49.128055+00:00",
+  "last_updated": "2026-07-30T04:50:00.562165+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.063804+00:00"
+      "droneAlert_time": "2026-07-30T04:45:53.187599+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -82,7 +82,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.062589+00:00"
+      "droneAlert_time": "2026-07-30T04:45:53.186375+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -121,9 +121,8 @@
     },
     "Краснодарский край": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.061826+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Ставропольский край": {
       "rocket": false,
@@ -142,9 +141,8 @@
     },
     "Татарстан": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.064532+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Башкортостан": {
       "rocket": false,
@@ -160,12 +158,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.064234+00:00"
+      "droneAlert_time": "2026-07-30T04:45:53.188038+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -186,7 +184,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.063341+00:00"
+      "droneAlert_time": "2026-07-30T04:45:53.187132+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -315,9 +313,8 @@
     },
     "Адыгея": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-30T04:40:42.061870+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     }
   }
 }
