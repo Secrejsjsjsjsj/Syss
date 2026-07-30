@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T05:34:57.272544+00:00",
+  "last_updated": "2026-07-30T05:39:34.471490+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,7 +29,7 @@
     "Владимирская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Воронежская область": {
       "rocket": false,
@@ -39,7 +39,7 @@
     "Ивановская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Калужская область": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:30:56.995620+00:00"
+      "droneAlert_time": "2026-07-30T05:35:36.983485+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -157,7 +157,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:30:56.996049+00:00"
+      "droneAlert_time": "2026-07-30T05:35:36.983915+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -183,7 +183,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T05:30:56.995171+00:00"
+      "droneAlert_time": "2026-07-30T05:35:36.983024+00:00"
     },
     "Свердловская область": {
       "rocket": false,
