@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T08:45:33.390968+00:00",
+  "last_updated": "2026-07-30T08:55:30.542704+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -164,7 +164,7 @@
     "Удмуртская Республика": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Самарская область": {
       "rocket": false,
@@ -199,7 +199,7 @@
     "Пермский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Новосибирская область": {
       "rocket": false,
