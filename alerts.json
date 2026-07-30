@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T06:35:12.683612+00:00",
+  "last_updated": "2026-07-30T06:40:01.601980+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -65,7 +65,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T06:30:54.087631+00:00"
+      "droneAlert_time": "2026-07-30T06:35:39.003857+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -141,7 +141,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T06:30:54.089847+00:00"
+      "droneAlert_time": "2026-07-30T06:35:39.006021+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -152,13 +152,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T06:30:54.089894+00:00"
+      "droneAlert_time": "2026-07-30T06:35:39.006067+00:00"
     },
     "Чувашия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-30T06:30:54.088066+00:00"
+      "droneAlert_time": "2026-07-30T06:35:39.004281+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
