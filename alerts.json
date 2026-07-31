@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T08:13:55.259465+00:00",
+  "last_updated": "2026-07-31T08:18:49.325186+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -189,7 +189,7 @@
     "Челябинская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Оренбургская область": {
       "rocket": false,
