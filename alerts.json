@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T18:17:24.924245+00:00",
+  "last_updated": "2026-07-31T18:22:12.360532+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -90,14 +90,15 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-31T18:20:49.523526+00:00"
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T18:15:51.060222+00:00"
+      "droneAlert_time": "2026-07-31T18:20:49.522770+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -113,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T18:15:51.059676+00:00"
+      "droneAlert_time": "2026-07-31T18:20:49.522209+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -145,7 +146,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T18:15:51.058766+00:00"
+      "droneAlert_time": "2026-07-31T18:20:49.521249+00:00"
     },
     "Башкортостан": {
       "rocket": false,
