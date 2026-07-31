@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T20:22:56.626867+00:00",
+  "last_updated": "2026-07-31T20:27:45.780299+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -97,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T20:20:57.719398+00:00"
+      "droneAlert_time": "2026-07-31T20:25:47.045177+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T20:20:57.718836+00:00"
+      "droneAlert_time": "2026-07-31T20:25:47.044652+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -131,10 +131,10 @@
       "droneDanger": false
     },
     "Ростовская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T20:20:57.720676+00:00"
+      "droneAlert_time": "2026-07-31T20:25:47.046443+00:00"
     },
     "Волгоградская область": {
       "rocket": true,
@@ -146,7 +146,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T20:20:57.717915+00:00"
+      "droneAlert_time": "2026-07-31T20:25:47.043728+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -165,9 +165,8 @@
     },
     "Республика Мордовия": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:25:41.774271+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Удмуртская Республика": {
       "rocket": false,
