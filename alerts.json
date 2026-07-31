@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:47:19.473661+00:00",
+  "last_updated": "2026-07-31T19:52:53.431040+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -92,13 +92,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:45:42.933707+00:00"
+      "droneAlert_time": "2026-07-31T19:50:52.581181+00:00"
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:45:42.932968+00:00"
+      "droneAlert_time": "2026-07-31T19:50:52.580436+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:45:42.932428+00:00"
+      "droneAlert_time": "2026-07-31T19:50:52.579893+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -135,18 +135,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:45:42.934203+00:00"
+      "droneAlert_time": "2026-07-31T19:50:52.581697+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-31T19:50:52.577538+00:00"
     },
     "Татарстан": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-07-31T19:45:42.931528+00:00"
+      "droneAlert_time": "2026-07-31T19:50:52.578952+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -186,8 +187,9 @@
     },
     "Ульяновская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-07-31T19:50:52.577467+00:00"
     },
     "Свердловская область": {
       "rocket": false,
