@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T12:15:23.469630+00:00",
+  "last_updated": "2026-08-01T12:25:24.955205+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -289,7 +289,7 @@
     "Республика Коми": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Саха (Якутия)": {
       "rocket": false,
