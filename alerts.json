@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T03:22:42.766838+00:00",
+  "last_updated": "2026-08-01T03:27:49.251882+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -90,9 +90,8 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-01T02:55:39.755710+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Смоленская область": {
       "rocket": false,
@@ -124,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.713857+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.096208+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -135,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.713091+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.095482+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.713297+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.095681+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -162,7 +161,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.715125+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.097322+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -183,13 +182,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.714056+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.096383+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-01T03:20:43.714436+00:00"
+      "droneAlert_time": "2026-08-01T03:25:43.096747+00:00"
     },
     "Свердловская область": {
       "rocket": false,
