@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T06:49:09.639142+00:00",
+  "last_updated": "2026-08-02T06:54:34.533817+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -8,9 +8,8 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-02T05:50:47.417089+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Ленинградская область": {
       "rocket": false,
@@ -40,7 +39,7 @@
     "Ивановская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Калужская область": {
       "rocket": false,
@@ -118,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T06:45:49.864496+00:00"
+      "droneAlert_time": "2026-08-02T06:50:50.817739+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -149,7 +148,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T06:45:49.868250+00:00"
+      "droneAlert_time": "2026-08-02T06:50:50.821547+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -175,7 +174,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T06:45:49.867364+00:00"
+      "droneAlert_time": "2026-08-02T06:50:50.820651+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -184,9 +183,8 @@
     },
     "Ульяновская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-02T06:45:49.865682+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Свердловская область": {
       "rocket": false,
@@ -283,7 +281,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T06:45:49.867907+00:00"
+      "droneAlert_time": "2026-08-02T06:50:50.821195+00:00"
     },
     "Дагестан": {
       "rocket": false,
