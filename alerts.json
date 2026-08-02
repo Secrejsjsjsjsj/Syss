@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T03:12:47.729611+00:00",
+  "last_updated": "2026-08-02T03:18:05.328377+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -44,8 +44,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-02T03:15:45.987545+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -113,14 +114,15 @@
     },
     "Тульская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-02T03:15:45.987846+00:00"
     },
     "Ярославская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T03:10:44.456960+00:00"
+      "droneAlert_time": "2026-08-02T03:15:45.988299+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -136,13 +138,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T03:10:44.455843+00:00"
+      "droneAlert_time": "2026-08-02T03:15:45.987175+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T03:10:44.456334+00:00"
+      "droneAlert_time": "2026-08-02T03:15:45.987634+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -183,13 +185,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T03:10:44.457546+00:00"
+      "droneAlert_time": "2026-08-02T03:15:45.988883+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-02T03:10:44.458171+00:00"
+      "droneAlert_time": "2026-08-02T03:15:45.989485+00:00"
     },
     "Свердловская область": {
       "rocket": false,
