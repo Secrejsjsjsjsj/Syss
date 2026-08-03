@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T04:39:29.135460+00:00",
+  "last_updated": "2026-08-03T04:43:56.921430+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T04:35:41.139585+00:00"
+      "droneAlert_time": "2026-08-03T04:40:45.717721+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -42,7 +42,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T04:35:41.139953+00:00"
+      "droneAlert_time": "2026-08-03T04:40:45.718086+00:00"
     },
     "Калужская область": {
       "rocket": false,
@@ -101,13 +101,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T04:35:41.134696+00:00"
+      "droneAlert_time": "2026-08-03T04:40:45.712867+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T04:35:41.138562+00:00"
+      "droneAlert_time": "2026-08-03T04:40:45.716701+00:00"
     },
     "Тверская область": {
       "rocket": false,
