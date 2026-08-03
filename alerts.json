@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T06:19:39.929762+00:00",
+  "last_updated": "2026-08-03T06:24:57.986048+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -23,9 +23,8 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-03T05:20:44.758728+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Владимирская область": {
       "rocket": false,
