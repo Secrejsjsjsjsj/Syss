@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T03:39:34.391611+00:00",
+  "last_updated": "2026-08-03T03:44:51.831689+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T03:35:42.220271+00:00"
+      "droneAlert_time": "2026-08-03T03:40:47.923490+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -42,12 +42,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T03:35:42.220725+00:00"
+      "droneAlert_time": "2026-08-03T03:40:47.923932+00:00"
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-03T03:40:47.916222+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,8 +78,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-03T03:40:47.916450+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -92,21 +94,20 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-03T03:35:42.219594+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T03:35:42.214115+00:00"
+      "droneAlert_time": "2026-08-03T03:40:47.917371+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-03T03:35:42.218986+00:00"
+      "droneAlert_time": "2026-08-03T03:40:47.922203+00:00"
     },
     "Тверская область": {
       "rocket": false,
