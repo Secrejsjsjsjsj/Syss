@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T04:36:07.432706+00:00",
+  "last_updated": "2026-08-04T04:45:58.644230+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -44,7 +44,7 @@
     "Калужская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Костромская область": {
       "rocket": false,
@@ -65,13 +65,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-04T04:30:53.282568+00:00"
+      "droneAlert_time": "2026-08-04T04:40:42.486365+00:00"
     },
     "Новгородская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-04T04:30:53.282019+00:00"
+      "droneAlert_time": "2026-08-04T04:40:42.485820+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -97,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-04T04:30:53.279615+00:00"
+      "droneAlert_time": "2026-08-04T04:40:42.483400+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -108,7 +108,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-04T04:30:53.281666+00:00"
+      "droneAlert_time": "2026-08-04T04:40:42.485457+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -123,7 +123,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ставропольский край": {
       "rocket": false,
@@ -158,13 +158,13 @@
     "Чувашия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-04T04:30:53.281252+00:00"
+      "droneAlert_time": "2026-08-04T04:40:42.485003+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -314,7 +314,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     }
   }
 }
