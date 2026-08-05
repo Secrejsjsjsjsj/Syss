@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T04:34:46.876691+00:00",
+  "last_updated": "2026-08-05T04:39:26.254302+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.025965+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.988372+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -64,9 +64,8 @@
     },
     "Нижегородская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.026567+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Новгородская область": {
       "rocket": false,
@@ -75,8 +74,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-05T04:35:43.984194+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -154,19 +154,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.028551+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.990842+00:00"
     },
     "Чувашия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.028460+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.990751+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.026476+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.988844+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -177,7 +177,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.029694+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.991973+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -283,7 +283,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:30:57.028837+00:00"
+      "droneAlert_time": "2026-08-05T04:35:43.991144+00:00"
     },
     "Дагестан": {
       "rocket": false,
