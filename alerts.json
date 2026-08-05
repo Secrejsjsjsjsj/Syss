@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T23:47:57.109802+00:00",
+  "last_updated": "2026-08-05T23:52:58.033910+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -34,10 +34,10 @@
       "droneAlert_time": "2026-08-05T23:45:45.256328+00:00"
     },
     "Воронежская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T23:45:45.255919+00:00"
+      "droneAlert_time": "2026-08-05T23:50:47.556868+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -61,7 +61,7 @@
       "droneDanger": true
     },
     "Липецкая область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-08-05T23:45:45.256414+00:00"
@@ -102,19 +102,18 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T23:45:45.255494+00:00"
+      "droneAlert_time": "2026-08-05T23:50:47.556437+00:00"
     },
     "Тамбовская область": {
       "rocket": true,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-05T22:45:52.588366+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Тверская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T23:45:45.260613+00:00"
+      "droneAlert_time": "2026-08-05T23:50:47.561633+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -147,7 +146,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T23:45:45.255675+00:00"
+      "droneAlert_time": "2026-08-05T23:50:47.556636+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -188,7 +187,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T23:45:45.257255+00:00"
+      "droneAlert_time": "2026-08-05T23:50:47.558215+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
