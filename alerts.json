@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T06:44:26.687970+00:00",
+  "last_updated": "2026-08-05T06:49:35.836267+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -99,7 +99,7 @@
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Тверская область": {
       "rocket": false,
@@ -145,7 +145,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T06:40:44.972102+00:00"
+      "droneAlert_time": "2026-08-05T06:45:44.215999+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -171,7 +171,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T06:40:44.970574+00:00"
+      "droneAlert_time": "2026-08-05T06:45:44.214467+00:00"
     },
     "Саратовская область": {
       "rocket": false,
