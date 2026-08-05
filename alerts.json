@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T04:49:29.288010+00:00",
+  "last_updated": "2026-08-05T04:54:39.895125+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,7 +29,7 @@
     "Владимирская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Воронежская область": {
       "rocket": false,
@@ -39,7 +39,7 @@
     "Ивановская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Калужская область": {
       "rocket": false,
@@ -138,8 +138,9 @@
     },
     "Татарстан": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-05T04:50:45.716350+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -155,7 +156,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:45:41.907144+00:00"
+      "droneAlert_time": "2026-08-05T04:50:45.714344+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -171,7 +172,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:45:41.908391+00:00"
+      "droneAlert_time": "2026-08-05T04:50:45.715576+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -277,7 +278,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T04:45:41.907525+00:00"
+      "droneAlert_time": "2026-08-05T04:50:45.714720+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -312,7 +313,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     }
   }
 }
