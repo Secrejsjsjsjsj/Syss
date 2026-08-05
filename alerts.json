@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T18:16:34.424723+00:00",
+  "last_updated": "2026-08-05T18:26:19.281699+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -60,7 +60,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.192459+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.829428+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.190712+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.827698+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -102,7 +102,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.194881+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.831817+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -113,13 +113,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.191280+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.828264+00:00"
     },
     "Ярославская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.191563+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.828543+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -134,7 +134,7 @@
     "Ростовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Волгоградская область": {
       "rocket": false,
@@ -280,7 +280,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T18:10:52.193529+00:00"
+      "droneAlert_time": "2026-08-05T18:20:49.830481+00:00"
     },
     "Дагестан": {
       "rocket": false,
