@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T05:04:49.430880+00:00",
+  "last_updated": "2026-08-05T05:09:32.931688+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -140,12 +140,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:01:02.898265+00:00"
+      "droneAlert_time": "2026-08-05T05:05:38.363979+00:00"
     },
     "Башкортостан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Марий Эл": {
       "rocket": false,
@@ -156,7 +156,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:01:02.896251+00:00"
+      "droneAlert_time": "2026-08-05T05:05:38.361978+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -172,7 +172,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:01:02.897492+00:00"
+      "droneAlert_time": "2026-08-05T05:05:38.363208+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -278,7 +278,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:01:02.896653+00:00"
+      "droneAlert_time": "2026-08-05T05:05:38.362353+00:00"
     },
     "Дагестан": {
       "rocket": false,
