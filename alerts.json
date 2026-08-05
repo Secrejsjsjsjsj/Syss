@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T05:24:47.437822+00:00",
+  "last_updated": "2026-08-05T05:29:10.678373+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -155,7 +155,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:20:57.240348+00:00"
+      "droneAlert_time": "2026-08-05T05:25:37.622096+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -171,7 +171,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:20:57.241598+00:00"
+      "droneAlert_time": "2026-08-05T05:25:37.623353+00:00"
     },
     "Саратовская область": {
       "rocket": false,
