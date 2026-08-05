@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T03:19:08.570592+00:00",
+  "last_updated": "2026-08-05T03:24:10.996174+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.559338+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.618155+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.559899+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.618748+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -83,7 +83,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.557918+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.616587+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -126,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.561458+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.620381+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -137,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.556903+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.615538+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -148,7 +148,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.562051+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.620985+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -159,19 +159,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.561815+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.620748+00:00"
     },
     "Чувашия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.561725+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.620656+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.559813+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.618658+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -288,7 +288,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T03:15:49.562096+00:00"
+      "droneAlert_time": "2026-08-05T03:20:45.621031+00:00"
     },
     "Дагестан": {
       "rocket": false,
