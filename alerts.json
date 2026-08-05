@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T16:27:22.583406+00:00",
+  "last_updated": "2026-08-05T16:37:23.195125+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -60,7 +60,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.791047+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.432107+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.789333+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.430374+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -92,7 +92,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.792525+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.433589+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -113,16 +113,16 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.789904+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.430948+00:00"
     },
     "Ярославская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.790166+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.431234+00:00"
     },
     "Краснодарский край": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -132,7 +132,7 @@
       "droneDanger": false
     },
     "Ростовская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": true
     },
@@ -280,7 +280,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T16:20:57.792099+00:00"
+      "droneAlert_time": "2026-08-05T16:31:05.433168+00:00"
     },
     "Дагестан": {
       "rocket": false,
@@ -313,7 +313,7 @@
       "droneDanger": false
     },
     "Адыгея": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": true
     }
