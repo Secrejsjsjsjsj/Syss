@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T05:59:41.007834+00:00",
+  "last_updated": "2026-08-05T06:04:37.867221+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -140,7 +140,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:55:46.951451+00:00"
+      "droneAlert_time": "2026-08-05T06:00:57.876843+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -171,7 +171,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-05T05:55:46.950660+00:00"
+      "droneAlert_time": "2026-08-05T06:00:57.875500+00:00"
     },
     "Саратовская область": {
       "rocket": false,
