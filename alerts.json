@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:38:17.835556+00:00",
+  "last_updated": "2026-08-06T01:43:02.456914+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -37,7 +37,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:35:47.349760+00:00"
+      "droneAlert_time": "2026-08-06T01:40:51.946497+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -102,7 +102,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:35:47.349323+00:00"
+      "droneAlert_time": "2026-08-06T01:40:51.946016+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:35:47.355039+00:00"
+      "droneAlert_time": "2026-08-06T01:40:51.951518+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -126,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:35:47.357467+00:00"
+      "droneAlert_time": "2026-08-06T01:40:51.953845+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -173,7 +173,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:35:47.357614+00:00"
+      "droneAlert_time": "2026-08-06T01:40:51.953984+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
