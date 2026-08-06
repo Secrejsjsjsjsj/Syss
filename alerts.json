@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:04:33.441667+00:00",
+  "last_updated": "2026-08-06T01:08:10.784712+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -18,8 +18,9 @@
     },
     "Белгородская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-06T01:05:46.127725+00:00"
     },
     "Брянская область": {
       "rocket": false,
@@ -36,7 +37,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:02:16.239904+00:00"
+      "droneAlert_time": "2026-08-06T01:05:46.127673+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -93,15 +94,14 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-06T00:05:45.827214+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:02:16.239470+00:00"
+      "droneAlert_time": "2026-08-06T01:05:46.127252+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:02:16.245325+00:00"
+      "droneAlert_time": "2026-08-06T01:05:46.132672+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -125,7 +125,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:02:16.247772+00:00"
+      "droneAlert_time": "2026-08-06T01:05:46.135015+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -173,7 +173,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:02:16.247918+00:00"
+      "droneAlert_time": "2026-08-06T01:05:46.135154+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -323,7 +323,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     }
   }
 }
