@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T02:08:30.583297+00:00",
+  "last_updated": "2026-08-06T02:13:29.850942+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -18,8 +18,9 @@
     },
     "Белгородская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-06T02:11:04.086899+00:00"
     },
     "Брянская область": {
       "rocket": false,
@@ -36,7 +37,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T02:05:54.760766+00:00"
+      "droneAlert_time": "2026-08-06T02:11:04.086839+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -93,9 +94,8 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-06T01:10:56.337654+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Смоленская область": {
       "rocket": false,
@@ -105,14 +105,15 @@
     },
     "Тамбовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-06T02:11:04.087084+00:00"
     },
     "Тверская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T02:05:54.766114+00:00"
+      "droneAlert_time": "2026-08-06T02:11:04.090987+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -124,13 +125,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T02:05:54.768539+00:00"
+      "droneAlert_time": "2026-08-06T02:11:04.092902+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T02:05:54.769204+00:00"
+      "droneAlert_time": "2026-08-06T02:11:04.093425+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -172,7 +173,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-06T02:05:54.768696+00:00"
+      "droneAlert_time": "2026-08-06T02:11:04.093017+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
