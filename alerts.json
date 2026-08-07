@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T20:20:11.814317+00:00",
+  "last_updated": "2026-08-07T20:24:49.167368+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-07T20:15:51.328490+00:00"
+      "droneAlert_time": "2026-08-07T20:20:46.874290+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -131,7 +131,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-07T20:15:51.328670+00:00"
+      "droneAlert_time": "2026-08-07T20:20:46.874464+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
