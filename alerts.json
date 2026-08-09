@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T04:35:40.820213+00:00",
+  "last_updated": "2026-08-09T04:45:30.726046+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -145,7 +145,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-09T04:30:53.404878+00:00"
+      "droneAlert_time": "2026-08-09T04:40:43.432368+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -165,7 +165,7 @@
     "Удмуртская Республика": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Самарская область": {
       "rocket": false,
