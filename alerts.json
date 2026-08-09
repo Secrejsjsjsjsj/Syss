@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T06:15:43.593755+00:00",
+  "last_updated": "2026-08-09T06:26:14.545700+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -145,7 +145,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-09T06:10:47.118124+00:00"
+      "droneAlert_time": "2026-08-09T06:20:55.887424+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -200,7 +200,7 @@
     "Пермский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Новосибирская область": {
       "rocket": false,
