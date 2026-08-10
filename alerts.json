@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T07:49:50.095164+00:00",
+  "last_updated": "2026-08-10T07:55:13.270403+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:45:47.723297+00:00"
+      "droneAlert_time": "2026-08-10T07:51:00.919540+00:00"
     },
     "Воронежская область": {
       "rocket": true,
@@ -61,7 +61,7 @@
       "droneAlert_time": "2026-08-10T07:25:43.717661+00:00"
     },
     "Липецкая область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -104,7 +104,7 @@
       "droneAlert_time": "2026-08-10T07:05:38.981567+00:00"
     },
     "Тамбовская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-08-10T06:55:56.842747+00:00"
@@ -118,7 +118,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:45:47.726944+00:00"
+      "droneAlert_time": "2026-08-10T07:51:00.923160+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -144,7 +144,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:45:47.724789+00:00"
+      "droneAlert_time": "2026-08-10T07:51:00.921025+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -155,7 +155,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:45:47.725280+00:00"
+      "droneAlert_time": "2026-08-10T07:51:00.921534+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -197,7 +197,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:45:47.726897+00:00"
+      "droneAlert_time": "2026-08-10T07:51:00.923113+00:00"
     },
     "Челябинская область": {
       "rocket": false,
