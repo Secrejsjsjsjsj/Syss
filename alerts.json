@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T08:34:30.445015+00:00",
+  "last_updated": "2026-08-10T08:39:08.616988+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:30:56.524489+00:00"
+      "droneAlert_time": "2026-08-10T08:35:45.502241+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -116,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:30:56.528030+00:00"
+      "droneAlert_time": "2026-08-10T08:35:45.505049+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -142,7 +142,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:30:56.525923+00:00"
+      "droneAlert_time": "2026-08-10T08:35:45.503387+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -153,7 +153,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:30:56.526431+00:00"
+      "droneAlert_time": "2026-08-10T08:35:45.503787+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -195,7 +195,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:30:56.529266+00:00"
+      "droneAlert_time": "2026-08-10T08:35:45.505961+00:00"
     },
     "Челябинская область": {
       "rocket": false,
