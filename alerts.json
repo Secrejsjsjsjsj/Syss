@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T11:54:25.285082+00:00",
+  "last_updated": "2026-08-10T11:59:04.524624+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -8,8 +8,9 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-10T11:55:48.947116+00:00"
     },
     "Ленинградская область": {
       "rocket": false,
@@ -53,8 +54,9 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-10T11:55:48.947065+00:00"
     },
     "Липецкая область": {
       "rocket": false,
@@ -121,7 +123,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ставропольский край": {
       "rocket": false,
