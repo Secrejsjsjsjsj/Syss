@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T08:24:18.030129+00:00",
+  "last_updated": "2026-08-10T08:29:22.440102+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -8,9 +8,8 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:25:43.717712+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Ленинградская область": {
       "rocket": false,
@@ -31,7 +30,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:20:48.902119+00:00"
+      "droneAlert_time": "2026-08-10T08:25:50.399358+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -45,9 +44,8 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:20:53.098796+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -56,9 +54,8 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-10T07:25:43.717661+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Липецкая область": {
       "rocket": false,
@@ -116,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:20:48.905719+00:00"
+      "droneAlert_time": "2026-08-10T08:25:50.402327+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -142,7 +139,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:20:48.903605+00:00"
+      "droneAlert_time": "2026-08-10T08:25:50.400598+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -153,7 +150,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:20:48.904092+00:00"
+      "droneAlert_time": "2026-08-10T08:25:50.401005+00:00"
     },
     "Марий Эл": {
       "rocket": false,
