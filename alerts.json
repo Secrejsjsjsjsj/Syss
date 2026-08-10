@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T09:04:25.449010+00:00",
+  "last_updated": "2026-08-10T09:09:03.197044+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T09:01:03.256992+00:00"
+      "droneAlert_time": "2026-08-10T09:05:49.485912+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -116,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T09:01:03.259742+00:00"
+      "droneAlert_time": "2026-08-10T09:05:49.489393+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -126,7 +126,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Ставропольский край": {
       "rocket": false,
@@ -142,7 +142,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T09:01:03.258110+00:00"
+      "droneAlert_time": "2026-08-10T09:05:49.487330+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -153,7 +153,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T09:01:03.258495+00:00"
+      "droneAlert_time": "2026-08-10T09:05:49.487821+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -167,9 +167,8 @@
     },
     "Республика Мордовия": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-10T08:05:40.063038+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -195,7 +194,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T09:01:03.260639+00:00"
+      "droneAlert_time": "2026-08-10T09:05:49.490545+00:00"
     },
     "Челябинская область": {
       "rocket": false,
