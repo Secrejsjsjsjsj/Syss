@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T04:53:26.552537+00:00",
+  "last_updated": "2026-08-10T04:58:09.589243+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -32,7 +32,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.570470+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.482365+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -46,9 +46,8 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-10T03:51:02.638001+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -86,7 +85,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.566130+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.478126+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -101,8 +100,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-10T04:55:38.478658+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -129,7 +129,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.571800+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.483663+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -145,13 +145,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.571982+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.483841+00:00"
     },
     "Татарстан": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.570913+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.482820+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -167,7 +167,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.570196+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.482139+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -189,13 +189,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.566826+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.478809+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-10T04:50:51.567799+00:00"
+      "droneAlert_time": "2026-08-10T04:55:38.479769+00:00"
     },
     "Свердловская область": {
       "rocket": false,
