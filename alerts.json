@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T01:17:39.462736+00:00",
+  "last_updated": "2026-08-11T01:22:31.727654+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,14 +29,15 @@
     },
     "Владимирская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-11T01:20:48.131003+00:00"
     },
     "Воронежская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T01:15:48.286148+00:00"
+      "droneAlert_time": "2026-08-11T01:20:48.126331+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -63,7 +64,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T01:15:48.285150+00:00"
+      "droneAlert_time": "2026-08-11T01:20:48.125346+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -96,13 +97,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T01:15:48.283097+00:00"
+      "droneAlert_time": "2026-08-11T01:20:48.123321+00:00"
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T01:15:48.285486+00:00"
+      "droneAlert_time": "2026-08-11T01:20:48.125678+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -122,8 +123,9 @@
     },
     "Ярославская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-11T01:20:48.122703+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -145,7 +147,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T01:15:48.284405+00:00"
+      "droneAlert_time": "2026-08-11T01:20:48.124591+00:00"
     },
     "Татарстан": {
       "rocket": false,
