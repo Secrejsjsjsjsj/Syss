@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T06:12:37.839298+00:00",
+  "last_updated": "2026-08-11T06:18:08.201738+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,9 +29,8 @@
     },
     "Владимирская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-11T05:55:46.438421+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Воронежская область": {
       "rocket": false,
@@ -40,9 +39,8 @@
     },
     "Ивановская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-11T05:50:57.916253+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Калужская область": {
       "rocket": false,
@@ -77,9 +75,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-11T05:55:46.432755+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Пензенская область": {
       "rocket": false,
@@ -100,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T06:10:49.628370+00:00"
+      "droneAlert_time": "2026-08-11T06:15:49.703218+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -151,7 +148,7 @@
     "Башкортостан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Марий Эл": {
       "rocket": false,
@@ -202,7 +199,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T06:10:49.634927+00:00"
+      "droneAlert_time": "2026-08-11T06:15:49.706852+00:00"
     },
     "Пермский край": {
       "rocket": false,
