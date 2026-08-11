@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T05:42:29.211486+00:00",
+  "last_updated": "2026-08-11T05:47:29.743103+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -100,7 +100,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T05:40:45.687681+00:00"
+      "droneAlert_time": "2026-08-11T05:45:46.193366+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -203,7 +203,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-11T05:40:45.694619+00:00"
+      "droneAlert_time": "2026-08-11T05:45:46.199885+00:00"
     },
     "Пермский край": {
       "rocket": false,
