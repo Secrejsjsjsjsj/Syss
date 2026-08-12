@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T17:24:53.706362+00:00",
+  "last_updated": "2026-08-12T17:30:08.418951+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.910150+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.384513+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.904724+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.378925+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -67,7 +67,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.911609+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.386052+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -78,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.904784+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.378985+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -94,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.910842+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.385253+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -105,7 +105,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.905839+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.380092+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -136,7 +136,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T17:20:59.910372+00:00"
+      "droneAlert_time": "2026-08-12T17:25:47.384761+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -296,7 +296,7 @@
     "Республика Коми": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Саха (Якутия)": {
       "rocket": false,
