@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T11:15:42.490696+00:00",
+  "last_updated": "2026-08-12T11:25:33.269400+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -30,7 +30,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.286724+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.970841+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -41,13 +41,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.287474+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.971548+00:00"
     },
     "Калужская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.284372+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.968497+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -68,7 +68,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.286498+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.970608+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -79,7 +79,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.284434+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.968556+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -105,7 +105,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.285536+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.969675+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -121,7 +121,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:10:53.288503+00:00"
+      "droneAlert_time": "2026-08-12T11:21:11.972549+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
