@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T11:05:28.023018+00:00",
+  "last_updated": "2026-08-12T11:15:42.490696+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -30,7 +30,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.936628+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.286724+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -41,13 +41,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.937340+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.287474+00:00"
     },
     "Калужская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.934375+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.284372+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -68,7 +68,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.936408+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.286498+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -79,7 +79,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.934433+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.284434+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -105,7 +105,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.935481+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.285536+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -121,7 +121,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-12T11:01:05.938316+00:00"
+      "droneAlert_time": "2026-08-12T11:10:53.288503+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
@@ -296,7 +296,7 @@
     "Республика Коми": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Республика Саха (Якутия)": {
       "rocket": false,
