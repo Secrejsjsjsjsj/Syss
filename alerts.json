@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T12:37:51.224939+00:00",
+  "last_updated": "2026-08-13T12:42:52.330107+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.794820+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.177541+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -79,7 +79,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.795273+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.177996+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -117,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.795965+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.178697+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -138,13 +138,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.793774+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.176481+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.792138+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.174858+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -185,13 +185,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.794312+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.177036+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T12:35:45.795696+00:00"
+      "droneAlert_time": "2026-08-13T12:40:53.178413+00:00"
     },
     "Свердловская область": {
       "rocket": false,
