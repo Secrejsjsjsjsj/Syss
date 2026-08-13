@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T11:25:01.186761+00:00",
+  "last_updated": "2026-08-13T11:29:49.893342+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -55,8 +55,9 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-13T11:25:43.045912+00:00"
     },
     "Липецкая область": {
       "rocket": false,
@@ -78,7 +79,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-13T11:20:57.055885+00:00"
+      "droneAlert_time": "2026-08-13T11:25:43.049536+00:00"
     },
     "Пензенская область": {
       "rocket": false,
