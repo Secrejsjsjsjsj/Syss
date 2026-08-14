@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T01:31:00.929208+00:00",
+  "last_updated": "2026-08-14T01:36:12.857551+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -38,8 +38,9 @@
     },
     "Ивановская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-14T01:35:43.085946+00:00"
     },
     "Калужская область": {
       "rocket": false,
@@ -59,8 +60,9 @@
     },
     "Липецкая область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-14T01:35:43.085898+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -113,8 +115,9 @@
     },
     "Тульская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": false
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-14T01:35:43.085678+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -134,8 +137,9 @@
     },
     "Ростовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-14T01:35:43.083887+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
