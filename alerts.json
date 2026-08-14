@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T01:15:58.779576+00:00",
+  "last_updated": "2026-08-14T01:20:56.621955+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -118,8 +118,9 @@
     },
     "Ярославская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-14T01:20:49.317837+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
