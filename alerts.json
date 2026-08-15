@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T01:27:07.352464+00:00",
+  "last_updated": "2026-08-15T01:32:31.557147+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -68,7 +68,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T01:25:31.685513+00:00"
+      "droneAlert_time": "2026-08-15T01:30:47.219281+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -85,7 +85,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T01:25:31.689215+00:00"
+      "droneAlert_time": "2026-08-15T01:30:47.222952+00:00"
     },
     "Псковская область": {
       "rocket": false,
