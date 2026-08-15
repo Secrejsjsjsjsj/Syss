@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T04:04:38.457548+00:00",
+  "last_updated": "2026-08-15T04:08:58.458155+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -97,8 +97,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-15T04:05:33.008260+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -121,7 +122,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T04:00:56.038708+00:00"
+      "droneAlert_time": "2026-08-15T04:05:33.011989+00:00"
     },
     "Краснодарский край": {
       "rocket": false,
