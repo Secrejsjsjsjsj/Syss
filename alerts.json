@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T00:02:02.386437+00:00",
+  "last_updated": "2026-08-15T00:06:47.795712+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T00:00:59.061780+00:00"
+      "droneAlert_time": "2026-08-15T00:05:38.096716+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -69,7 +69,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T00:00:59.060002+00:00"
+      "droneAlert_time": "2026-08-15T00:05:38.094135+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -86,7 +86,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-15T00:00:59.062481+00:00"
+      "droneAlert_time": "2026-08-15T00:05:38.097749+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -106,7 +106,7 @@
       "droneAlert_time": "2026-08-14T23:40:46.781838+00:00"
     },
     "Тамбовская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-08-14T23:25:40.392807+00:00"
@@ -160,7 +160,7 @@
       "droneDanger": false
     },
     "Марий Эл": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
