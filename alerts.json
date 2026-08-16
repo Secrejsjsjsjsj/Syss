@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:17:13.982273+00:00",
+  "last_updated": "2026-08-16T12:22:22.450069+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -120,7 +120,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-16T12:15:37.642331+00:00"
+      "droneAlert_time": "2026-08-16T12:20:40.008353+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
