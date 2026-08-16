@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T18:42:32.323669+00:00",
+  "last_updated": "2026-08-16T18:47:35.535792+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -99,7 +99,7 @@
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Тверская область": {
       "rocket": false,
