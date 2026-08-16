@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T04:05:55.851479+00:00",
+  "last_updated": "2026-08-16T04:11:14.352749+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -92,9 +92,8 @@
     },
     "Рязанская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-16T03:25:36.909893+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Смоленская область": {
       "rocket": false,
@@ -162,7 +161,7 @@
     "Чувашия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Мордовия": {
       "rocket": false,
