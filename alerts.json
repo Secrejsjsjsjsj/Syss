@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T05:48:09.043157+00:00",
+  "last_updated": "2026-08-17T05:53:17.708535+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -279,7 +279,7 @@
     "Дагестан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Карелия": {
       "rocket": false,
