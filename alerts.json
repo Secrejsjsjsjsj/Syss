@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T00:28:14.948284+00:00",
+  "last_updated": "2026-08-17T00:33:23.315014+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-17T00:25:38.505971+00:00"
+      "droneAlert_time": "2026-08-17T00:30:49.983526+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-17T00:25:38.504397+00:00"
+      "droneAlert_time": "2026-08-17T00:30:49.982302+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -132,13 +132,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-17T00:25:38.505749+00:00"
+      "droneAlert_time": "2026-08-17T00:30:49.983346+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-17T00:25:38.507072+00:00"
+      "droneAlert_time": "2026-08-17T00:30:49.984350+00:00"
     },
     "Татарстан": {
       "rocket": false,
