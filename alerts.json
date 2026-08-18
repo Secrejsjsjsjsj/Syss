@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T03:31:23.620565+00:00",
+  "last_updated": "2026-08-18T03:36:53.724800+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -61,9 +61,8 @@
     },
     "Липецкая область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:30:42.915850+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Нижегородская область": {
       "rocket": false,
@@ -95,13 +94,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T03:29:58.975386+00:00"
+      "droneAlert_time": "2026-08-18T03:35:34.940172+00:00"
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T03:29:58.974860+00:00"
+      "droneAlert_time": "2026-08-18T03:35:34.939401+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -118,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T03:29:58.974291+00:00"
+      "droneAlert_time": "2026-08-18T03:35:34.938556+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -129,7 +128,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T03:29:58.975418+00:00"
+      "droneAlert_time": "2026-08-18T03:35:34.940220+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -168,9 +167,8 @@
     },
     "Республика Мордовия": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:30:42.916673+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Удмуртская Республика": {
       "rocket": false,
