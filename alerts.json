@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T17:03:24.964307+00:00",
+  "last_updated": "2026-08-18T17:08:04.908247+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -120,7 +120,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Ставропольский край": {
       "rocket": false,
