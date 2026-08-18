@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T02:27:01.475101+00:00",
+  "last_updated": "2026-08-18T02:32:27.516382+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,12 +31,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:25:32.343241+00:00"
+      "droneAlert_time": "2026-08-18T02:30:42.916810+00:00"
     },
     "Воронежская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Ивановская область": {
       "rocket": false,
@@ -61,8 +61,9 @@
     },
     "Липецкая область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-18T02:30:42.915850+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -94,13 +95,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:25:32.345030+00:00"
+      "droneAlert_time": "2026-08-18T02:30:42.918681+00:00"
     },
     "Смоленская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:25:32.344233+00:00"
+      "droneAlert_time": "2026-08-18T02:30:42.917826+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -117,7 +118,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:25:32.343421+00:00"
+      "droneAlert_time": "2026-08-18T02:30:42.916985+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -128,7 +129,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-18T02:25:32.345078+00:00"
+      "droneAlert_time": "2026-08-18T02:30:42.918733+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -167,8 +168,9 @@
     },
     "Республика Мордовия": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-18T02:30:42.916673+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
