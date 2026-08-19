@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-08-19T16:57:52.778099+00:00",
+  "last_updated": "2026-08-19T17:03:18.618140+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-19T17:00:42.724889+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -43,8 +44,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-19T17:00:42.723955+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -60,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:55:35.398127+00:00"
+      "droneAlert_time": "2026-08-19T17:00:42.724590+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -74,8 +76,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-19T17:00:42.723660+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -121,13 +124,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:55:35.403562+00:00"
+      "droneAlert_time": "2026-08-19T17:00:42.728482+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:55:35.403622+00:00"
+      "droneAlert_time": "2026-08-19T17:00:42.728516+00:00"
     },
     "Ростовская область": {
       "rocket": false,
@@ -314,7 +317,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:55:35.403711+00:00"
+      "droneAlert_time": "2026-08-19T17:00:42.728586+00:00"
     }
   }
 }
