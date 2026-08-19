@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T16:37:35.153255+00:00",
+  "last_updated": "2026-08-19T16:41:31.936157+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -29,9 +29,8 @@
     },
     "Владимирская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-19T15:50:51.131312+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Воронежская область": {
       "rocket": false,
@@ -40,9 +39,8 @@
     },
     "Ивановская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-19T15:50:51.132457+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Калужская область": {
       "rocket": false,
@@ -64,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:35:37.940508+00:00"
+      "droneAlert_time": "2026-08-19T16:39:21.585357+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -119,21 +117,20 @@
     },
     "Ярославская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-19T15:50:51.126433+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:35:37.945980+00:00"
+      "droneAlert_time": "2026-08-19T16:39:21.590549+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:35:37.946028+00:00"
+      "droneAlert_time": "2026-08-19T16:39:21.590597+00:00"
     },
     "Ростовская область": {
       "rocket": false,
@@ -320,7 +317,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-19T16:35:37.946115+00:00"
+      "droneAlert_time": "2026-08-19T16:39:21.590703+00:00"
     }
   }
 }
