@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T21:23:52.768783+00:00",
+  "last_updated": "2026-08-20T21:29:20.423598+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.964531+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.643602+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -61,7 +61,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.966831+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.645361+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.964660+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.643702+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.965551+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.644384+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -124,7 +124,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.963909+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.643116+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -135,13 +135,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.963863+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.643080+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-20T21:20:38.969020+00:00"
+      "droneAlert_time": "2026-08-20T21:26:06.647036+00:00"
     },
     "Татарстан": {
       "rocket": false,
