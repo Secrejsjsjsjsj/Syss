@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T03:19:55.231486+00:00",
+  "last_updated": "2026-08-21T03:24:46.989769+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.927747+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.078257+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -61,13 +61,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.930074+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.080550+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.934186+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.084617+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -104,7 +104,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.934053+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.084486+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -150,31 +150,31 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.935339+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.085766+00:00"
     },
     "Марий Эл": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.935292+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.085721+00:00"
     },
     "Чувашия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.934988+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.085422+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.934232+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.084663+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.935643+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.086074+00:00"
     },
     "Самарская область": {
       "rocket": false,
@@ -205,7 +205,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-21T03:15:44.935247+00:00"
+      "droneAlert_time": "2026-08-21T03:20:39.085676+00:00"
     },
     "Пермский край": {
       "rocket": false,
