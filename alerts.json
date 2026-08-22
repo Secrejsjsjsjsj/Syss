@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T01:43:28.158633+00:00",
+  "last_updated": "2026-08-22T01:48:26.403411+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -83,7 +83,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.272103+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.023691+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -115,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.271591+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.023186+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -125,7 +125,7 @@
     "Краснодарский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ставропольский край": {
       "rocket": false,
@@ -136,13 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.268972+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.020511+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.268931+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.020446+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -178,13 +178,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.272992+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.024588+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T01:40:38.270088+00:00"
+      "droneAlert_time": "2026-08-22T01:45:42.021671+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
@@ -319,7 +319,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     }
   }
 }
