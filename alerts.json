@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:49:06.815364+00:00",
+  "last_updated": "2026-08-22T05:54:05.901680+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -30,7 +30,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.779598+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.408234+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -41,7 +41,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.779562+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.408185+00:00"
     },
     "Калужская область": {
       "rocket": false,
@@ -53,7 +53,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.779491+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.408072+00:00"
     },
     "Курская область": {
       "rocket": false,
@@ -69,7 +69,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.779633+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.408280+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -96,7 +96,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.780992+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.410068+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -118,7 +118,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.776362+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.403894+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -161,7 +161,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-22T05:45:37.779421+00:00"
+      "droneAlert_time": "2026-08-22T05:50:40.407980+00:00"
     },
     "Чувашия": {
       "rocket": false,
