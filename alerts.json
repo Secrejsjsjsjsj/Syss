@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T06:50:08.395531+00:00",
+  "last_updated": "2026-08-23T06:55:13.512068+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -46,13 +46,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T06:45:40.830401+00:00"
+      "droneAlert_time": "2026-08-23T06:50:39.224166+00:00"
     },
     "Костромская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T06:45:40.835496+00:00"
+      "droneAlert_time": "2026-08-23T06:50:39.229283+00:00"
     },
     "Курская область": {
       "rocket": false,
@@ -98,7 +98,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T06:45:40.835227+00:00"
+      "droneAlert_time": "2026-08-23T06:50:39.228991+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -153,7 +153,7 @@
     "Марий Эл": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Чувашия": {
       "rocket": false,
@@ -164,7 +164,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T06:45:40.832781+00:00"
+      "droneAlert_time": "2026-08-23T06:50:39.226546+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
