@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T18:24:11.759576+00:00",
+  "last_updated": "2026-08-23T18:30:52.559398+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T18:19:18.285429+00:00"
+      "droneAlert_time": "2026-08-23T18:26:04.407394+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T18:19:18.284978+00:00"
+      "droneAlert_time": "2026-08-23T18:26:04.406928+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -98,7 +98,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T18:19:18.281656+00:00"
+      "droneAlert_time": "2026-08-23T18:26:04.402737+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T18:19:18.286124+00:00"
+      "droneAlert_time": "2026-08-23T18:26:04.408124+00:00"
     },
     "Ярославская область": {
       "rocket": false,
