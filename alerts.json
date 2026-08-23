@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T22:09:28.849031+00:00",
+  "last_updated": "2026-08-23T22:14:34.818649+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.943648+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.828983+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.943187+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.828532+00:00"
     },
     "Пензенская область": {
       "rocket": true,
@@ -97,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.939614+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.825124+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.944359+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.829693+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -124,24 +124,24 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.946531+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.831870+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.947037+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.832348+00:00"
     },
     "Ростовская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:05:35.946162+00:00"
+      "droneAlert_time": "2026-08-23T22:10:39.831498+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Татарстан": {
       "rocket": false,
