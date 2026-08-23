@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T22:34:10.020631+00:00",
+  "last_updated": "2026-08-23T22:39:23.590040+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.660677+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.427531+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.660228+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.427063+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -97,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.656604+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.423424+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -113,7 +113,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.661408+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.428251+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -124,19 +124,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.663617+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.430493+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.665021+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.431872+00:00"
     },
     "Ростовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-23T22:30:44.663243+00:00"
+      "droneAlert_time": "2026-08-23T22:35:40.430100+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
