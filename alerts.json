@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T09:23:42.851057+00:00",
+  "last_updated": "2026-08-24T09:28:51.571624+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -280,7 +280,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-24T09:20:44.614959+00:00"
+      "droneAlert_time": "2026-08-24T09:25:41.415393+00:00"
     },
     "Республика Карелия": {
       "rocket": false,
