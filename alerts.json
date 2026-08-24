@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T15:48:48.631019+00:00",
+  "last_updated": "2026-08-24T15:53:52.175144+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-24T15:45:44.689622+00:00"
+      "droneAlert_time": "2026-08-24T15:50:46.557136+00:00"
     },
     "Ивановская область": {
       "rocket": false,
