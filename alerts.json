@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T21:49:01.861919+00:00",
+  "last_updated": "2026-08-25T21:53:47.792717+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.808101+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.520311+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.806269+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.517807+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.805466+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.517127+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -93,7 +93,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.808876+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.521338+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -134,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.805949+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.517540+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.807979+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.520154+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -181,7 +181,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-25T21:45:41.809283+00:00"
+      "droneAlert_time": "2026-08-25T21:50:47.521886+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
