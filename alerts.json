@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T23:46:56.073750+00:00",
+  "last_updated": "2026-08-26T23:51:57.984475+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -166,7 +166,7 @@
       "droneDanger": true
     },
     "Удмуртская Республика": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -179,7 +179,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-26T23:45:43.498318+00:00"
+      "droneAlert_time": "2026-08-26T23:50:42.280515+00:00"
     },
     "Ульяновская область": {
       "rocket": true,
@@ -202,7 +202,7 @@
       "droneDanger": false
     },
     "Пермский край": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
