@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T02:11:10.773741+00:00",
+  "last_updated": "2026-08-27T02:17:56.253915+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -8,9 +8,8 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-27T01:10:40.269683+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Ленинградская область": {
       "rocket": false,
@@ -130,9 +129,8 @@
     },
     "Ростовская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-27T01:10:40.269549+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Волгоградская область": {
       "rocket": false,
@@ -174,19 +172,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T02:05:37.458346+00:00"
+      "droneAlert_time": "2026-08-27T02:15:37.065302+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T02:10:34.209773+00:00"
+      "droneAlert_time": "2026-08-27T02:15:37.065362+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T02:05:37.457931+00:00"
+      "droneAlert_time": "2026-08-27T02:15:37.064899+00:00"
     },
     "Свердловская область": {
       "rocket": true,
