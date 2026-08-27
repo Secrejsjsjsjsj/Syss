@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T00:56:53.549710+00:00",
+  "last_updated": "2026-08-27T01:02:26.518887+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -172,19 +172,21 @@
     },
     "Самарская область": {
       "rocket": true,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-27T01:00:58.096611+00:00"
     },
     "Саратовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-27T01:00:58.096661+00:00"
     },
     "Ульяновская область": {
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T00:55:37.956543+00:00"
+      "droneAlert_time": "2026-08-27T01:00:58.096197+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -198,8 +200,9 @@
     },
     "Оренбургская область": {
       "rocket": true,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-27T01:00:58.096518+00:00"
     },
     "Пермский край": {
       "rocket": true,
