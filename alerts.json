@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T03:18:58.600191+00:00",
+  "last_updated": "2026-08-27T03:24:00.310655+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -8,9 +8,8 @@
     },
     "Санкт-Петербург": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-27T02:20:40.751698+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Ленинградская область": {
       "rocket": false,
@@ -172,19 +171,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T03:15:41.090635+00:00"
+      "droneAlert_time": "2026-08-27T03:20:41.061305+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T03:15:41.090673+00:00"
+      "droneAlert_time": "2026-08-27T03:20:41.061356+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-27T03:15:41.090323+00:00"
+      "droneAlert_time": "2026-08-27T03:20:41.060872+00:00"
     },
     "Свердловская область": {
       "rocket": false,
