@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T05:20:48.397696+00:00",
+  "last_updated": "2026-08-28T05:25:48.906865+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -160,7 +160,7 @@
     "Чувашия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Республика Мордовия": {
       "rocket": false,
