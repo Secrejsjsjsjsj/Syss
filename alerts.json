@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T21:36:05.284461+00:00",
+  "last_updated": "2026-08-29T21:46:21.101278+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -14,7 +14,7 @@
     "Ленинградская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Белгородская область": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T21:30:46.852645+00:00"
+      "droneAlert_time": "2026-08-29T21:40:39.066204+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -73,7 +73,7 @@
       "droneDanger": true
     },
     "Орловская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
       "droneAlert_time": "2026-08-29T20:40:41.650938+00:00"
@@ -87,7 +87,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T21:30:46.854948+00:00"
+      "droneAlert_time": "2026-08-29T21:40:39.068547+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -98,7 +98,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T21:30:46.853933+00:00"
+      "droneAlert_time": "2026-08-29T21:40:39.067510+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -109,7 +109,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T21:30:46.854996+00:00"
+      "droneAlert_time": "2026-08-29T21:40:39.068595+00:00"
     },
     "Тульская область": {
       "rocket": false,
@@ -123,8 +123,9 @@
     },
     "Краснодарский край": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-29T21:40:39.068729+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
