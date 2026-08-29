@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T01:35:31.529002+00:00",
+  "last_updated": "2026-08-29T01:45:58.650361+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -111,7 +111,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T01:30:50.534441+00:00"
+      "droneAlert_time": "2026-08-29T01:40:45.842419+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -122,7 +122,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T01:30:50.533894+00:00"
+      "droneAlert_time": "2026-08-29T01:40:45.841931+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -133,27 +133,27 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T01:30:50.534040+00:00"
+      "droneAlert_time": "2026-08-29T01:40:45.842074+00:00"
     },
     "Волгоградская область": {
-      "rocket": true,
+      "rocket": false,
       "droneAlert": false,
       "droneDanger": false
     },
     "Татарстан": {
       "rocket": true,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Башкортостан": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Марий Эл": {
       "rocket": true,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Чувашия": {
       "rocket": true,
@@ -196,7 +196,7 @@
       "droneDanger": false
     },
     "Оренбургская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
