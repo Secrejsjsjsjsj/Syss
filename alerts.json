@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T23:10:19.547556+00:00",
+  "last_updated": "2026-08-29T23:21:06.891238+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -71,12 +71,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.150993+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.572700+00:00"
     },
     "Орловская область": {
       "rocket": true,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-29T23:15:40.569080+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -87,7 +88,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.148582+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.570212+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -98,7 +99,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.150178+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.571854+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -109,7 +110,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.148630+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.570263+00:00"
     },
     "Тульская область": {
       "rocket": true,
@@ -125,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.148788+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.570399+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -136,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-29T23:05:32.149753+00:00"
+      "droneAlert_time": "2026-08-29T23:15:40.571401+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
