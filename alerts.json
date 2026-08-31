@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T06:22:45.123731+00:00",
+  "last_updated": "2026-08-31T06:31:19.501832+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -186,7 +186,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T06:17:03.586586+00:00"
+      "droneAlert_time": "2026-08-31T06:25:36.197352+00:00"
     },
     "Челябинская область": {
       "rocket": false,
