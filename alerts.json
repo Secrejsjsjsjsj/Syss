@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T05:25:26.497721+00:00",
+  "last_updated": "2026-08-31T05:35:59.660438+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -165,7 +165,7 @@
     "Удмуртская Республика": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Самарская область": {
       "rocket": false,
@@ -184,8 +184,9 @@
     },
     "Свердловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-31T05:30:47.805953+00:00"
     },
     "Челябинская область": {
       "rocket": false,
