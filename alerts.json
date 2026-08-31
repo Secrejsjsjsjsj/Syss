@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-08-31T03:20:14.052969+00:00",
+  "last_updated": "2026-08-31T03:25:22.469491+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-31T03:20:42.926218+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -45,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.476292+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.925592+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -61,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.477457+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.927280+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -77,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.476260+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.925544+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -103,7 +104,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.477459+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.927283+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -144,7 +145,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.478985+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.929508+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -175,7 +176,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T03:15:44.478657+00:00"
+      "droneAlert_time": "2026-08-31T03:20:42.929023+00:00"
     },
     "Саратовская область": {
       "rocket": false,
