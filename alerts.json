@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T20:59:18.752794+00:00",
+  "last_updated": "2026-08-31T21:04:41.098015+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T20:55:35.610501+00:00"
+      "droneAlert_time": "2026-08-31T21:00:58.041500+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T20:55:35.608185+00:00"
+      "droneAlert_time": "2026-08-31T21:00:58.039116+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T20:55:35.608363+00:00"
+      "droneAlert_time": "2026-08-31T21:00:58.039300+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -98,12 +98,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T20:55:35.608620+00:00"
+      "droneAlert_time": "2026-08-31T21:00:58.039553+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-31T21:00:58.044661+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -134,12 +135,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T20:55:35.609752+00:00"
+      "droneAlert_time": "2026-08-31T21:00:58.040741+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-08-31T21:00:58.044824+00:00"
     },
     "Татарстан": {
       "rocket": false,
