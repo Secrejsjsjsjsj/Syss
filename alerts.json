@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T01:49:53.499167+00:00",
+  "last_updated": "2026-08-31T01:54:38.867245+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.171569+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.384257+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.169435+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.382094+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -63,7 +63,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.171170+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.383848+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -79,13 +79,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.169387+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.382045+00:00"
     },
     "Пензенская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.172613+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.385329+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -106,7 +106,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.171174+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.383853+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -147,7 +147,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.172844+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.385567+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -178,7 +178,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T01:45:42.172935+00:00"
+      "droneAlert_time": "2026-08-31T01:50:39.385661+00:00"
     },
     "Саратовская область": {
       "rocket": false,
