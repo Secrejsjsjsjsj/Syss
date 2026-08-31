@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-08-31T05:35:59.660438+00:00",
+  "last_updated": "2026-08-31T05:46:17.287653+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-08-31T04:40:38.326521+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -186,7 +185,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-08-31T05:30:47.805953+00:00"
+      "droneAlert_time": "2026-08-31T05:40:43.866462+00:00"
     },
     "Челябинская область": {
       "rocket": false,
