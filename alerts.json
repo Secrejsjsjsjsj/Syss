@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-09-01T01:08:35.156263+00:00",
+  "last_updated": "2026-09-01T01:14:28.604959+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T01:10:42.276586+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -15,7 +16,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.101036+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.276334+00:00"
     },
     "Белгородская область": {
       "rocket": false,
@@ -73,7 +74,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.099179+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.274437+00:00"
     },
     "Орловская область": {
       "rocket": false,
@@ -85,13 +86,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.098780+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.274038+00:00"
     },
     "Псковская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.097600+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.272852+00:00"
     },
     "Рязанская область": {
       "rocket": false,
@@ -106,8 +107,9 @@
     },
     "Тамбовская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T01:10:42.271447+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -171,7 +173,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.099386+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.274630+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -182,19 +184,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.102338+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.277625+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.097290+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.272531+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T01:05:38.100195+00:00"
+      "droneAlert_time": "2026-09-01T01:10:42.275488+00:00"
     },
     "Свердловская область": {
       "rocket": false,
