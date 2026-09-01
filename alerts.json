@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-09-01T19:29:10.736566+00:00",
+  "last_updated": "2026-09-01T19:35:04.423251+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T19:30:57.949849+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -45,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T19:25:37.737591+00:00"
+      "droneAlert_time": "2026-09-01T19:30:57.952566+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -76,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T19:25:37.737379+00:00"
+      "droneAlert_time": "2026-09-01T19:30:57.952415+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -95,8 +96,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T19:30:57.947992+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -105,14 +107,15 @@
     },
     "Тверская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T19:30:57.948049+00:00"
     },
     "Тульская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T19:25:37.737633+00:00"
+      "droneAlert_time": "2026-09-01T19:30:57.952597+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -120,7 +123,7 @@
       "droneDanger": false
     },
     "Краснодарский край": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": true
     },
@@ -130,7 +133,7 @@
       "droneDanger": false
     },
     "Ростовская область": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
@@ -310,7 +313,7 @@
       "droneDanger": false
     },
     "Адыгея": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": true
     }
