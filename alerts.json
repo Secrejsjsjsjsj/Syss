@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-09-01T17:14:12.476116+00:00",
+  "last_updated": "2026-09-01T17:19:55.839534+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T17:15:46.636477+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -45,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T17:10:45.443813+00:00"
+      "droneAlert_time": "2026-09-01T17:15:46.640656+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -76,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T17:10:45.443592+00:00"
+      "droneAlert_time": "2026-09-01T17:15:46.640429+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -92,12 +93,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T17:10:45.444600+00:00"
+      "droneAlert_time": "2026-09-01T17:15:46.641486+00:00"
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T17:15:46.633657+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -106,14 +108,15 @@
     },
     "Тверская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-01T17:15:46.633403+00:00"
     },
     "Тульская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-01T17:10:45.443857+00:00"
+      "droneAlert_time": "2026-09-01T17:15:46.640702+00:00"
     },
     "Ярославская область": {
       "rocket": false,
