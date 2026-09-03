@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-09-03T07:03:14.457141+00:00",
+  "last_updated": "2026-09-03T07:07:59.265840+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-03T06:05:39.505989+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -24,21 +23,20 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-03T06:05:39.505071+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Владимирская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-03T07:00:56.355222+00:00"
+      "droneAlert_time": "2026-09-03T07:05:48.059326+00:00"
     },
     "Воронежская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-03T07:00:56.355590+00:00"
+      "droneAlert_time": "2026-09-03T07:05:48.059690+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -78,9 +76,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-03T06:05:39.499587+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -96,7 +93,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-03T07:00:56.355684+00:00"
+      "droneAlert_time": "2026-09-03T07:05:48.059777+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -119,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-03T07:00:56.355642+00:00"
+      "droneAlert_time": "2026-09-03T07:05:48.059736+00:00"
     },
     "Ярославская область": {
       "rocket": false,
