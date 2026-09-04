@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-09-04T22:47:23.964427+00:00",
+  "last_updated": "2026-09-04T22:52:35.182756+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-04T22:50:41.083477+00:00"
     },
     "Санкт-Петербург": {
       "rocket": false,
@@ -114,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T22:45:40.374799+00:00"
+      "droneAlert_time": "2026-09-04T22:50:41.083304+00:00"
     },
     "Ярославская область": {
       "rocket": false,
