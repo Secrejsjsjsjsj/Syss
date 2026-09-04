@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T16:12:39.063430+00:00",
+  "last_updated": "2026-09-04T16:17:50.100371+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -24,15 +24,14 @@
     },
     "Брянская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-04T15:10:42.539714+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Владимирская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T16:10:40.099804+00:00"
+      "droneAlert_time": "2026-09-04T16:15:42.492499+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -43,13 +42,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T16:10:40.099973+00:00"
+      "droneAlert_time": "2026-09-04T16:15:42.492690+00:00"
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-04T15:10:42.532561+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -58,9 +56,8 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-04T15:10:42.539658+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Липецкая область": {
       "rocket": false,
@@ -97,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T16:10:40.096194+00:00"
+      "droneAlert_time": "2026-09-04T16:15:42.488772+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -119,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T16:10:40.096137+00:00"
+      "droneAlert_time": "2026-09-04T16:15:42.488692+00:00"
     },
     "Ярославская область": {
       "rocket": false,
