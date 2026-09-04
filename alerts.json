@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T09:04:32.691922+00:00",
+  "last_updated": "2026-09-04T09:09:09.442177+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T09:00:54.721111+00:00"
+      "droneAlert_time": "2026-09-04T09:05:35.829521+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -60,7 +60,7 @@
     "Липецкая область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Нижегородская область": {
       "rocket": false,
