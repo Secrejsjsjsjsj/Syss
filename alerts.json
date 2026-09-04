@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T05:54:44.812565+00:00",
+  "last_updated": "2026-09-04T05:59:50.602583+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -31,7 +31,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:50:38.351103+00:00"
+      "droneAlert_time": "2026-09-04T05:55:36.305572+00:00"
     },
     "Воронежская область": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:50:38.351157+00:00"
+      "droneAlert_time": "2026-09-04T05:55:36.305666+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -67,7 +67,7 @@
     "Нижегородская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Новгородская область": {
       "rocket": false,
@@ -78,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:50:38.347796+00:00"
+      "droneAlert_time": "2026-09-04T05:55:36.299974+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -102,9 +102,8 @@
     },
     "Тамбовская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:25:41.889440+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Тверская область": {
       "rocket": false,
@@ -116,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:50:38.350185+00:00"
+      "droneAlert_time": "2026-09-04T05:55:36.303984+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -127,7 +126,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-04T05:50:38.350909+00:00"
+      "droneAlert_time": "2026-09-04T05:55:36.305248+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -318,7 +317,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     }
   }
 }
