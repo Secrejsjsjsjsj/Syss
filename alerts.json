@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-09-05T16:37:45.795399+00:00",
+  "last_updated": "2026-09-05T16:44:17.634880+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-05T15:40:38.483748+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Санкт-Петербург": {
       "rocket": false,
