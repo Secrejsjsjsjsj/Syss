@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T01:09:24.789828+00:00",
+  "last_updated": "2026-09-06T01:15:59.634231+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.938350+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.518927+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.938908+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.519455+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -62,7 +62,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.941641+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.522211+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -78,13 +78,13 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.937464+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.518069+00:00"
     },
     "Пензенская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.940470+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.521039+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -95,7 +95,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.940582+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.521130+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -106,7 +106,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.938601+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.519154+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -142,7 +142,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.937675+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.518244+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -183,7 +183,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-06T01:05:31.942473+00:00"
+      "droneAlert_time": "2026-09-06T01:10:39.523109+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
