@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T10:54:24.831262+00:00",
+  "last_updated": "2026-09-08T10:59:40.970120+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T10:50:43.735561+00:00"
+      "droneAlert_time": "2026-09-08T10:55:38.068967+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -97,7 +97,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T10:50:43.739753+00:00"
+      "droneAlert_time": "2026-09-08T10:55:38.073422+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
