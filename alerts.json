@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T04:19:24.376217+00:00",
+  "last_updated": "2026-09-08T04:24:23.611837+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.515051+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.639370+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -61,7 +61,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.517548+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.641878+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.517362+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.641703+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -98,13 +98,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.521249+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.645645+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.517725+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.642054+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -135,7 +135,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:15:42.520511+00:00"
+      "droneAlert_time": "2026-09-08T04:20:42.644887+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -175,17 +175,17 @@
     "Самарская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Свердловская область": {
       "rocket": false,
