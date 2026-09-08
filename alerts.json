@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T04:29:10.031793+00:00",
+  "last_updated": "2026-09-08T04:34:26.594343+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -61,7 +61,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.421223+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.687748+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.421083+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.687574+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -98,13 +98,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.424149+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.691433+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.421362+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.687923+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -135,7 +135,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.423550+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.690699+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -165,7 +165,7 @@
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -181,7 +181,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-08T04:25:37.424514+00:00"
+      "droneAlert_time": "2026-09-08T04:30:49.691898+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
