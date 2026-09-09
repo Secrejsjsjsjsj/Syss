@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T23:09:12.732546+00:00",
+  "last_updated": "2026-09-09T23:14:14.569737+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.318393+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.351432+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.319814+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.352944+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -78,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.313068+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.345935+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -94,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.321197+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.354369+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -116,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.321109+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.354275+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -137,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.318956+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.352027+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -183,7 +183,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T23:05:36.319277+00:00"
+      "droneAlert_time": "2026-09-09T23:10:41.352373+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
