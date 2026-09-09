@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T14:11:21.370474+00:00",
+  "last_updated": "2026-09-09T14:21:34.473982+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -76,7 +76,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T14:05:37.225168+00:00"
+      "droneAlert_time": "2026-09-09T14:15:52.901734+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -112,7 +112,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T14:05:37.221434+00:00"
+      "droneAlert_time": "2026-09-09T14:15:52.898000+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -303,13 +303,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T14:05:37.225940+00:00"
+      "droneAlert_time": "2026-09-09T14:15:52.902527+00:00"
     },
     "ЯНАО": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T14:05:37.225838+00:00"
+      "droneAlert_time": "2026-09-09T14:15:52.902425+00:00"
     },
     "Адыгея": {
       "rocket": false,
