@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T05:09:07.413724+00:00",
+  "last_updated": "2026-09-09T05:13:59.460611+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.923186+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.954341+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -98,7 +98,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.922445+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.952985+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -114,7 +114,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.923130+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.954250+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -150,7 +150,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.923305+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.954561+00:00"
     },
     "Марий Эл": {
       "rocket": false,
@@ -176,7 +176,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.922852+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.953755+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -187,7 +187,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.922153+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.952471+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -203,7 +203,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T05:05:35.923440+00:00"
+      "droneAlert_time": "2026-09-09T05:10:39.954783+00:00"
     },
     "Пермский край": {
       "rocket": false,
