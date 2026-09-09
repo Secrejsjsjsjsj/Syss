@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T02:18:48.838002+00:00",
+  "last_updated": "2026-09-09T02:23:44.731029+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.108834+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.825410+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -84,7 +84,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.110126+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.826744+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -100,7 +100,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.111281+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.827968+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -136,13 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.108882+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.825458+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.109342+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.825937+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -178,19 +178,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.111998+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.828705+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.109836+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.826445+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-09T02:15:39.110796+00:00"
+      "droneAlert_time": "2026-09-09T02:20:38.827441+00:00"
     },
     "Свердловская область": {
       "rocket": false,
