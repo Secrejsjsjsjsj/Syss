@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T19:15:07.377514+00:00",
+  "last_updated": "2026-09-10T19:20:03.437430+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -25,7 +25,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.844340+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.040536+00:00"
     },
     "Владимирская область": {
       "rocket": false,
@@ -46,7 +46,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.847127+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.043315+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -78,7 +78,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.848335+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.044532+00:00"
     },
     "Пензенская область": {
       "rocket": true,
@@ -94,7 +94,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.849538+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.045736+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -116,7 +116,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.843645+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.039834+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -137,7 +137,7 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T19:10:45.849008+00:00"
+      "droneAlert_time": "2026-09-10T19:15:41.045208+00:00"
     },
     "Волгоградская область": {
       "rocket": true,
@@ -160,7 +160,7 @@
       "droneDanger": false
     },
     "Чувашия": {
-      "rocket": false,
+      "rocket": true,
       "droneAlert": false,
       "droneDanger": false
     },
