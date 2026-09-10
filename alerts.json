@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T03:34:11.330864+00:00",
+  "last_updated": "2026-09-10T03:38:59.913669+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -25,7 +25,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T03:30:47.746472+00:00"
+      "droneAlert_time": "2026-09-10T03:35:34.427149+00:00"
     },
     "Владимирская область": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T03:30:47.743691+00:00"
+      "droneAlert_time": "2026-09-10T03:35:34.423631+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T03:30:47.744865+00:00"
+      "droneAlert_time": "2026-09-10T03:35:34.425105+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -56,8 +56,9 @@
     },
     "Курская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-10T03:35:34.425491+00:00"
     },
     "Липецкая область": {
       "rocket": false,
@@ -76,9 +77,8 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-10T02:30:48.949609+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Пензенская область": {
       "rocket": false,
@@ -97,8 +97,9 @@
     },
     "Смоленская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-10T03:35:34.425169+00:00"
     },
     "Тамбовская область": {
       "rocket": false,
@@ -114,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T03:30:47.745935+00:00"
+      "droneAlert_time": "2026-09-10T03:35:34.426458+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -135,7 +136,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T03:30:47.744137+00:00"
+      "droneAlert_time": "2026-09-10T03:35:34.424211+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
