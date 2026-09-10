@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T07:23:48.629906+00:00",
+  "last_updated": "2026-09-10T07:29:10.789836+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -25,7 +25,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T07:20:43.150111+00:00"
+      "droneAlert_time": "2026-09-10T07:25:39.911599+00:00"
     },
     "Владимирская область": {
       "rocket": false,
@@ -36,7 +36,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T07:20:43.146565+00:00"
+      "droneAlert_time": "2026-09-10T07:25:39.908032+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -47,7 +47,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T07:20:43.148055+00:00"
+      "droneAlert_time": "2026-09-10T07:25:39.909545+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -116,7 +116,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T07:20:43.149399+00:00"
+      "droneAlert_time": "2026-09-10T07:25:39.910889+00:00"
     },
     "Ярославская область": {
       "rocket": false,
