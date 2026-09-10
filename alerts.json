@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T22:19:59.307850+00:00",
+  "last_updated": "2026-09-10T22:24:32.722865+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -45,7 +45,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.290291+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.097878+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -66,7 +66,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.293899+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.103377+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -77,7 +77,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.291187+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.099123+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -93,7 +93,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.292030+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.100295+00:00"
     },
     "Смоленская область": {
       "rocket": false,
@@ -115,7 +115,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.293358+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.102619+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -136,13 +136,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.291655+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.099780+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-10T22:15:45.295372+00:00"
+      "droneAlert_time": "2026-09-10T22:20:38.105298+00:00"
     },
     "Татарстан": {
       "rocket": false,
