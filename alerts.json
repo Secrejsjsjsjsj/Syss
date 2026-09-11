@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T00:03:32.686266+00:00",
+  "last_updated": "2026-09-11T00:08:28.884618+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.993855+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.045658+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -68,7 +68,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.990651+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.042966+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -83,9 +83,8 @@
     },
     "Пензенская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.994721+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Псковская область": {
       "rocket": false,
@@ -107,7 +106,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.993764+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.045585+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -118,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.995060+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.046666+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -145,7 +144,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.992622+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.044641+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -161,7 +160,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.994360+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.046082+00:00"
     },
     "Чувашия": {
       "rocket": false,
@@ -192,7 +191,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T00:00:53.996467+00:00"
+      "droneAlert_time": "2026-09-11T00:05:45.047835+00:00"
     },
     "Свердловская область": {
       "rocket": false,
