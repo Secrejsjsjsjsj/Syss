@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T05:49:50.279354+00:00",
+  "last_updated": "2026-09-11T05:55:05.246189+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -73,8 +73,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-11T05:50:45.429023+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -110,7 +111,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:45:42.461610+00:00"
+      "droneAlert_time": "2026-09-11T05:50:45.428894+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -151,7 +152,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:45:42.461114+00:00"
+      "droneAlert_time": "2026-09-11T05:50:45.428139+00:00"
     },
     "Чувашия": {
       "rocket": false,
@@ -173,7 +174,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:45:42.464057+00:00"
+      "droneAlert_time": "2026-09-11T05:50:45.432587+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -184,7 +185,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:45:42.462583+00:00"
+      "droneAlert_time": "2026-09-11T05:50:45.430372+00:00"
     },
     "Свердловская область": {
       "rocket": false,
