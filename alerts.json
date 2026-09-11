@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T21:53:26.794668+00:00",
+  "last_updated": "2026-09-11T21:56:55.380627+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T21:50:42.017094+00:00"
+      "droneAlert_time": "2026-09-11T21:54:17.208487+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -139,7 +139,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T21:50:42.017203+00:00"
+      "droneAlert_time": "2026-09-11T21:54:17.208597+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -171,13 +171,13 @@
     "Удмуртская Республика": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Самарская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T21:50:42.015515+00:00"
+      "droneAlert_time": "2026-09-11T21:54:17.207608+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -208,7 +208,7 @@
     "Пермский край": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Новосибирская область": {
       "rocket": false,
@@ -288,7 +288,7 @@
     "Дагестан": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Республика Карелия": {
       "rocket": false,
