@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T06:29:35.739585+00:00",
+  "last_updated": "2026-09-11T06:34:52.231886+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -111,7 +111,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T06:25:39.980256+00:00"
+      "droneAlert_time": "2026-09-11T06:30:55.956183+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -152,7 +152,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T06:25:39.979531+00:00"
+      "droneAlert_time": "2026-09-11T06:30:55.955434+00:00"
     },
     "Чувашия": {
       "rocket": false,
@@ -184,7 +184,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T06:25:39.981751+00:00"
+      "droneAlert_time": "2026-09-11T06:30:55.957647+00:00"
     },
     "Свердловская область": {
       "rocket": false,
