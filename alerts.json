@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T05:39:38.864939+00:00",
+  "last_updated": "2026-09-11T05:44:42.725310+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -111,7 +111,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:35:35.707623+00:00"
+      "droneAlert_time": "2026-09-11T05:40:41.229584+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -152,13 +152,12 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:35:35.706905+00:00"
+      "droneAlert_time": "2026-09-11T05:40:41.228999+00:00"
     },
     "Чувашия": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-11T04:35:38.463134+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Республика Мордовия": {
       "rocket": false,
@@ -174,7 +173,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:35:35.711116+00:00"
+      "droneAlert_time": "2026-09-11T05:40:41.232547+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -185,7 +184,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-11T05:35:35.709026+00:00"
+      "droneAlert_time": "2026-09-11T05:40:41.230800+00:00"
     },
     "Свердловская область": {
       "rocket": false,
