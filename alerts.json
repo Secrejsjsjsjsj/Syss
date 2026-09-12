@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T03:52:52.096157+00:00",
+  "last_updated": "2026-09-12T03:57:43.318434+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -79,9 +79,8 @@
     },
     "Пензенская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:01:38.022298+00:00"
+      "droneAlert": false,
+      "droneDanger": false
     },
     "Псковская область": {
       "rocket": false,
@@ -138,7 +137,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:50:39.438945+00:00"
+      "droneAlert_time": "2026-09-12T03:55:32.934851+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -175,7 +174,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:50:39.440608+00:00"
+      "droneAlert_time": "2026-09-12T03:55:32.936497+00:00"
     },
     "Саратовская область": {
       "rocket": false,
@@ -186,7 +185,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:50:39.440237+00:00"
+      "droneAlert_time": "2026-09-12T03:55:32.936129+00:00"
     },
     "Свердловская область": {
       "rocket": false,
