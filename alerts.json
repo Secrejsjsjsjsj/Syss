@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T12:53:26.915823+00:00",
+  "last_updated": "2026-09-12T12:58:14.441200+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -43,8 +43,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-12T12:55:37.248991+00:00"
     },
     "Костромская область": {
       "rocket": false,
