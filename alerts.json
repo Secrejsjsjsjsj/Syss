@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T03:33:28.215390+00:00",
+  "last_updated": "2026-09-12T03:38:07.296766+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -59,7 +59,7 @@
     "Липецкая область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": false
+      "droneDanger": true
     },
     "Нижегородская область": {
       "rocket": false,
@@ -138,7 +138,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:30:50.710533+00:00"
+      "droneAlert_time": "2026-09-12T03:35:45.395960+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -175,19 +175,19 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:30:50.712164+00:00"
+      "droneAlert_time": "2026-09-12T03:35:45.397051+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:30:50.711379+00:00"
+      "droneAlert_time": "2026-09-12T03:35:45.396521+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-12T03:30:50.711784+00:00"
+      "droneAlert_time": "2026-09-12T03:35:45.396794+00:00"
     },
     "Свердловская область": {
       "rocket": false,
@@ -317,7 +317,7 @@
     "Адыгея": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     }
   }
 }
