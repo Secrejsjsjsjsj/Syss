@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T21:50:38.609836+00:00",
+  "last_updated": "2026-09-12T21:55:43.592043+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -44,9 +44,8 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": true,
-      "droneDanger": false,
-      "droneAlert_time": "2026-09-12T20:50:39.455199+00:00"
+      "droneAlert": false,
+      "droneDanger": true
     },
     "Костромская область": {
       "rocket": false,
@@ -186,8 +185,9 @@
     },
     "Ульяновская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-12T21:55:34.750290+00:00"
     },
     "Свердловская область": {
       "rocket": false,
