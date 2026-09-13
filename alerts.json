@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T21:56:42.664122+00:00",
+  "last_updated": "2026-09-13T22:02:19.964550+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-13T21:55:34.252881+00:00"
+      "droneAlert_time": "2026-09-13T22:00:54.430607+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -44,8 +44,9 @@
     },
     "Калужская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-13T22:00:54.431118+00:00"
     },
     "Костромская область": {
       "rocket": false,
@@ -74,8 +75,9 @@
     },
     "Орловская область": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-13T22:00:54.428001+00:00"
     },
     "Пензенская область": {
       "rocket": false,
@@ -121,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-13T21:55:34.253492+00:00"
+      "droneAlert_time": "2026-09-13T22:00:54.431408+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -132,13 +134,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-13T21:55:34.251809+00:00"
+      "droneAlert_time": "2026-09-13T22:00:54.429165+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-13T21:55:34.254268+00:00"
+      "droneAlert_time": "2026-09-13T22:00:54.432468+00:00"
     },
     "Татарстан": {
       "rocket": false,
@@ -282,8 +284,9 @@
     },
     "Дагестан": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-13T22:00:54.432862+00:00"
     },
     "Республика Карелия": {
       "rocket": false,
