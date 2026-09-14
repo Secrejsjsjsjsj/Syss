@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T23:09:52.158035+00:00",
+  "last_updated": "2026-09-14T23:15:05.417318+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.822864+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.635136+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -62,13 +62,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.823990+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.636282+00:00"
     },
     "Нижегородская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.828781+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.641160+00:00"
     },
     "Новгородская область": {
       "rocket": false,
@@ -85,7 +85,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.825059+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.637395+00:00"
     },
     "Псковская область": {
       "rocket": false,
@@ -95,7 +95,7 @@
     "Рязанская область": {
       "rocket": false,
       "droneAlert": false,
-      "droneDanger": true
+      "droneDanger": false
     },
     "Смоленская область": {
       "rocket": false,
@@ -106,7 +106,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.824217+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.636524+00:00"
     },
     "Тверская область": {
       "rocket": false,
@@ -117,7 +117,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.825896+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.638245+00:00"
     },
     "Ярославская область": {
       "rocket": false,
@@ -138,18 +138,19 @@
       "rocket": true,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.824129+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.636431+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.823458+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.635733+00:00"
     },
     "Татарстан": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-14T23:10:41.641477+00:00"
     },
     "Башкортостан": {
       "rocket": false,
@@ -158,20 +159,21 @@
     },
     "Марий Эл": {
       "rocket": false,
-      "droneAlert": false,
-      "droneDanger": true
+      "droneAlert": true,
+      "droneDanger": false,
+      "droneAlert_time": "2026-09-14T23:10:41.641523+00:00"
     },
     "Чувашия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.828417+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.640794+00:00"
     },
     "Республика Мордовия": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.825471+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.637818+00:00"
     },
     "Удмуртская Республика": {
       "rocket": false,
@@ -182,13 +184,13 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.827732+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.640121+00:00"
     },
     "Саратовская область": {
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T23:05:40.823706+00:00"
+      "droneAlert_time": "2026-09-14T23:10:41.636003+00:00"
     },
     "Ульяновская область": {
       "rocket": false,
