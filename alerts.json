@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T01:07:01.809113+00:00",
+  "last_updated": "2026-09-14T01:11:59.335391+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -35,7 +35,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T01:05:36.011704+00:00"
+      "droneAlert_time": "2026-09-14T01:10:37.006842+00:00"
     },
     "Ивановская область": {
       "rocket": false,
@@ -123,7 +123,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T01:05:36.015177+00:00"
+      "droneAlert_time": "2026-09-14T01:10:37.010384+00:00"
     },
     "Ставропольский край": {
       "rocket": false,
@@ -134,7 +134,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T01:05:36.010284+00:00"
+      "droneAlert_time": "2026-09-14T01:10:37.005386+00:00"
     },
     "Волгоградская область": {
       "rocket": false,
@@ -285,7 +285,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-14T01:05:36.015075+00:00"
+      "droneAlert_time": "2026-09-14T01:10:37.010293+00:00"
     },
     "Республика Карелия": {
       "rocket": false,
