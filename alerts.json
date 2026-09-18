@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T07:24:49.786238+00:00",
+  "last_updated": "2026-09-18T07:29:42.012029+00:00",
   "regions": {
     "Москва": {
       "rocket": false,
@@ -75,7 +75,7 @@
       "rocket": false,
       "droneAlert": true,
       "droneDanger": false,
-      "droneAlert_time": "2026-09-18T07:20:42.530997+00:00"
+      "droneAlert_time": "2026-09-18T07:25:40.475404+00:00"
     },
     "Пензенская область": {
       "rocket": false,
